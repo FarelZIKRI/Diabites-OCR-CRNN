@@ -1,421 +1,2479 @@
-file_name,text,quality
-calories_001.png,Energi total 140 Kkal,blur
-calories_002.png,Energi Total 180 kkal,clear
-calories_003.png,Energi Total / Calories 100 kkal,overlap
-calories_004.png,Energi Total 110 kkal,clear
-calories_005.png,Energi Total/Total Energy 120 kkal,clear
-calories_006.png,Energi Total/Total Energy 120 kkal,overlap
-calories_007.png,Energi Total/Total Energy 150 kkal/kcal,overlap
-calories_008.png,Energi Total 160 kkal Total Energy 160 kcal,clear
-calories_009.png,Energi total 30 kkal,clear
-calories_010.png,Energi total 120 kkal,clear
-calories_011.png,Energi total 20 KKal,clear
-calories_012.png,Energi Total 110 kkal,clear
-calories_013.png,Energi Total 90 kkal,clear
-calories_014.png,Energi Total 50 kkal,clear
-calories_015.png,Energi Total / Calories 45 kkal,clear
-calories_016.png,Energi Total/ Calories 50 kkal/ Cal,blur
-calories_017.png,Energi Total 90 kkal,clear
-calories_018.png,Energi Total 90 Kkal,blur
-calories_019.png,Energi Total : 70 kkal,clear
-calories_020.png,Energi Total/Total Energy 120 kkal,overlap
-calories_021.png,Energi Total/Total Energy 130 kkal,overlap
-calories_022.png,Energi Total/Total Energy 90 kkal,glare
-calories_023.png,Energi total 120 kkal,overlap
-calories_024.png,Energi Total/ Calories 160 kkal,overlap
-calories_025.png,Energi Total 130 kkal,clear
-calories_026.png,EnergiTotal/Calories 150kkal,overlap
-calories_027.png,Energi Total/Calories 150 kkal,overlap
-calories_028.png,Energi Total/Calories 130kkal,clear
-calories_029.png,Energi Total / Calories 170kkal,blur
-calories_030.png,Energi total / Calories 170 kkal,blur
-calories_031.png,Energi Total 80 kkal,clear
-calories_032.png,Energi Total 45 Kkal,blur
-calories_033.png,Energi Total / Calories 110 kkal,overlap
-calories_034.png,Energi Total : 70 kkal,clear
-calories_035.png,Energi Total 100 kkal,clear
-calories_036.png,Energi Total : 80 kkal,overlap
-calories_037.png,Energi Total : 60 kkal,overlap
-calories_038.png,Energi total / Total energy 70 kkal,overlap
-calories_039.png,Energi total / Total energy 70 kkal,overlap
-calories_040.png,Energi total / Total energy 50 kkal,clear
-calories_041.png,Energi total 140 kkal,clear
-calories_042.png,Energi total / Total energy 50 kkal,overlap
-calories_043.png,Energi Total 20 kkal,clear
-calories_044.png,Energi Total 60 kkal,overlap
-calories_045.png,Energi Total : 100 kkal,overlap
-calories_046.png,Energi Total / Total Calories: 90 kkal / 90 kcal,blur
-calories_047.png,Energi Total / Total Calories 110 kkal,overlap
-calories_048.png,Energi Total 50 kkal,clear
-calories_049.png,Energi Total 5 kkal,clear
-calories_050.png,Energi Total 5 kkal,overlap
-calories_051.png,Energi Total 60 kkal,clear
-calories_052.png,Energi Total 60 kkal,clear
-calories_053.png,Energi Total 60 kkal,glare
-calories_054.png,Energi Total 5 kkal,overlap
-calories_055.png,Energi total 120 kkal,overlap
-calories_056.png,Energi total / Total energy 50 kkal,clear
-calories_057.png,Energi Total/Calories 160 kkal,clear
-calories_058.png,Energi Total 45 kkal,clear
-calories_059.png,Total Calories/Energi Total 50 kkal/kcal,overlap
-calories_060.png,Energi Total 60 kkal,glare
-calories_061.png,Energi Total 110 kkal,clear
-calories_062.png,Energi Total : 50 kkal,blur
-calories_063.png,Energi Total/Total Energy 90 kkal,overlap
-calories_064.png,Energi Total 100 kkal,overlap
-calories_065.png,Energi Total 100 kkal,overlap
-calories_066.png,Energi Total 100 kkal,overlap
-calories_067.png,Energi Total 60 kkal,overlap
-calories_068.png,Energi Total 60 kkal,overlap
-calories_069.png,Energi Total 100 kkal,overlap
-calories_070.png,Energi Total 100 kkal,overlap
-calories_071.png,Energi Total / Total Calories 110 kkal / 110 kcal,clear
-calories_072.png,Energi Total / Total Calories 120 kkal / 120 kcal,overlap
-calories_073.png,Energi Total / Calories / 卡路里 160 kkal / kcal,clear
-calories_074.png,Energi Total/ Total Calories 180 kkal/ 180 kcal,glare
-calories_075.png,Energi Total / Total Calories 100 kkal / 100 kcal,clear
-calories_076.png,Energi total 15 kkal,overlap
-calories_077.png,Energi Total/Total Calories 110 kkal,overlap
-calories_078.png,Energi Total/Total Calories 120 kkal,blur
-calories_079.png,Energi Total/ Total Calories 120 kkal,clear
-calories_080.png,Energi Total (Total energy) 170 kkal,overlap
-calories_081.png,Energi Total (Total energy) 170 kkal,clear
-calories_082.png,Energi Total / Total Energy …....130kkal,clear
-calories_083.png,Energi Total / Total Calories 130 kkal / kcal,overlap
-calories_084.png,Energi Total 80 kkal,overlap
-carbs_001.png,Karbohidrat total 20 g,blur
-carbs_002.png,Karbohidrat Total 36 g,glare
-carbs_003.png,Karbohidrat Total/ 14g,glare
-carbs_004.png,Karbohidrat Total 11 g,glare
-carbs_005.png,Karbohidrat Total/Total Carbohydrate 8 g,clear
-carbs_006.png,Karbohidrat Total/Total Carbohydrate 9 g,overlap
-carbs_007.png,Karbohidrat Total / Total Carbohydrate 4 g,overlap
-carbs_008.png,Karbohidrat Total 24 g,clear
-carbs_009.png,Karbohidrat total 8 g,clear
-carbs_010.png,Karbohidrat total 19 g,overlap
-carbs_011.png,Karbohidrat Total 5g,clear
-carbs_012.png,Karbohidrat Total 11 g,clear
-carbs_013.png,Karbohidrat Total 22 g,overlap
-carbs_014.png,Karbohidrat Total 37 g,clear
-carbs_015.png,Karbohidrat Total/Total Carbohydrate 11 g,overlap
-carbs_016.png,Karbohidrat Total/Total Carbohydrate 12 g,glare
-carbs_017.png,Karbohidrat Total 23 g,clear
-carbs_018.png,Karbohidrat Total 21 g,overlap
-carbs_019.png,Karbohidrat Total 16 g,overlap
-carbs_020.png,Karbohidrat Total/Total Carbohydrate 20 g,overlap
-carbs_021.png,Karbohidrat Total/Total Carbohydrate 22 g,overlap
-carbs_022.png,Karbohidrat Total/Total Carbohydrate 21 g,blur
-carbs_023.png,Karbohidrat Total 26 g,overlap
-carbs_024.png,Karbohidrat Total/Total Carbohydrate 29 g,clear
-carbs_025.png,Karbohidrat Total 27 g,overlap
-carbs_026.png,Karbohidrat Total/Total Carbohydrate 24 g,overlap
-carbs_027.png,Karbohidrat Total/Total Carbohydrate 24 g,overlap
-carbs_028.png,Karbohidrat Total/Total Carbohydrate 21 g,clear
-carbs_029.png,Karbohidrat Total (Total Carbohydrate) 30 g,glare
-carbs_030.png,Karbohidrat Total/Total Carbohydrate 26 g,clear
-carbs_031.png,Karbohidrat Total 11 g,overlap
-carbs_032.png,Karbohidrat Total 12 g,overlap
-carbs_033.png,Karbohidrat total / Total carbohydrate 27 g,glare
-carbs_034.png,Karbohidrat Total 26 g,clear
-carbs_035.png,Karbohidrat Total 20 g,overlap
-carbs_036.png,Karbohidrat Total 16g,overlap
-carbs_037.png,Karbohidrat total/Total carbohydrate  16 g,overlap
-carbs_038.png,Karbohidrat total/Total carbohydrate  16 g,overlap
-carbs_039.png,Karbohidrat total / Total carbohydrate 12 g,overlap
-carbs_040.png,Karbohidrat total 34 g,clear
-carbs_041.png,Karbohidrat total / Total carbohydrate 12 g,overlap
-carbs_042.png,Karbohidrat Total 8 g,clear
-carbs_043.png,Karbohidrat Total 21 g,overlap
-carbs_044.png,Karbohidrat Total 27 g,overlap
-carbs_045.png,Karbohidrat Total/Total Carbohydrate 23 g,overlap
-carbs_046.png,Karbohidrat Total / Total Carbohydrate 27 g ,overlap
-carbs_047.png,Karbohidrat Total 14 g,clear
-carbs_048.png,Karbohidrat Total 1 g,clear
-carbs_049.png,Karbohidrat Total 1 g,overlap
-carbs_050.png,Karbohidrat Total 11 g,clear
-carbs_051.png,Karbohidrat Total 11 g,overlap
-carbs_052.png,Karbohidrat Total 11 g,clear
-carbs_053.png,Karbohidrat Total 1 g,overlap
-carbs_054.png,Karbohidrat Total 21 g,glare
-carbs_055.png,Karbohidrat total / Total carbohydrate 12 g,clear
-carbs_056.png,karbohidrat Total/Total Carbohydrate 28 g,overlap
-carbs_057.png,Karbohidrat 11 g,clear
-carbs_058.png,Total Carbohydrate/Karbohidrat Total 13 g,clear
-carbs_059.png,Karbohidrat Total 11 g,clear
-carbs_060.png,Karbohidrat Total 29 g,clear
-carbs_061.png,Karbohidrat Total 12 g,glare
-carbs_062.png,Karbohidrat Total/Total Carbohydrate 15 g,overlap
-carbs_063.png,Karbohidrat Total 23 g,overlap
-carbs_064.png,Karbohidrat Total 23 g,blur
-carbs_065.png,Karbohidrat Total 22 g,overlap
-carbs_066.png,Karbohidrat Total 11 g,overlap
-carbs_067.png,Karbohidrat Total 10 g,clear
-carbs_068.png,Karbohidrat Total 22 g,overlap
-carbs_069.png,Karbohidrat Total 23 g,overlap
-carbs_070.png,Karbohidrat Total/Total Carbohydrate 27 g,clear
-carbs_071.png,Karbohidrat Total / Total Carbohydrate 29 g,clear
-carbs_072.png,Karbohidrat Total / Total Carbohydrate / 總碳水化合物  37g,clear
-carbs_073.png,Karbohidrat Total/ Total Carbohydrate 44 g,overlap
-carbs_074.png,Karbohidrat Total/Total Carbohydrate 26 g,clear
-carbs_075.png,Karbohidrat Total 3 g,overlap
-carbs_076.png,Karbohidrat Total/Total Carbohydrate 29 g,overlap
-carbs_077.png,Karbohidrat Total/Total Carbohydrate 30 g,clear
-carbs_078.png,Karbohidrat Total/Total Carbohydrate 30 g,clear
-carbs_079.png,Karbohidrat Total / Total Carbohydrate 43 g,overlap
-carbs_080.png,Karbohidrat Total / Total Carbohydrate 43 g,clear
-carbs_081.png,Karbohidrat Total/Total Carbohydrate.................24 g ,clear
-carbs_082.png,Karbohidrat Total / Total Carbohydrate 22 g,overlap
-carbs_083.png,Karbohidrat Total 9 g,clear
-carbs_084.png,Karbohidrat Total/Total Carbohydrate 22 g,overlap
-fat_001.png,Lemak total 6 g,blur
-fat_002.png,Lemak Total 2 g,glare
-fat_003.png,Lemak Total / Total Fat 4 g,clear
-fat_004.png,Lemak Total 6 g,glare
-fat_005.png,Lemak Total/Total Fat 9 g,glare
-fat_006.png,Lemak Total/Total Fat 8 g,overlap
-fat_007.png,Lemak Total / Total Fat 12 g,blur
-fat_008.png,Lemak Total (Total Fat) 4 g,clear
-fat_009.png,Lemak total 0 g,blur
-fat_010.png,Lemak total 3 g,blur
-fat_011.png,Lemak Total 0g,clear
-fat_012.png,Lemak Total 6 g,clear
-fat_013.png,Lemak Total 0 g,clear
-fat_014.png,Lemak Total 0 g,clear
-fat_015.png,Lemak Total/ Total Fat 0 g,overlap
-fat_016.png,Lemak Total/ Total Fat 0 g,overlap
-fat_017.png,Lemak Total 0 g,overlap
-fat_018.png,Lemak Total 0 g,clear
-fat_019.png,Lemak Total 0 g,clear
-fat_020.png,Lemak Total/Total Fat 2 g,overlap
-fat_021.png,Lemak Total/Total Fat 2.5 g,overlap
-fat_022.png,Lemak Total/Total Fat 0 g,overlap
-fat_023.png,Lemak Total 2 g,clear
-fat_024.png,"Lemak Total / Total Fat 3,5 g",clear
-fat_025.png,Lemak Total 2 g,clear
-fat_026.png,Lemak Total / Total Fat 5 g,clear
-fat_027.png,Lemak Total / Total Fat 5 g,clear
-fat_028.png,Lemak Total / Total Fat 5 g,clear
-fat_029.png,Lemak Total (Total Fat) 4.5 g,glare
-fat_030.png,Lemak Total / Total Fat 4.5 g,clear
-fat_031.png,Lemak Total 2.5 g,clear
-fat_032.png,Lemak Total 0 g,overlap
-fat_033.png,Lemak Total / Total Fat 0 g,overlap
-fat_034.png,Lemak Total 0 g,clear
-fat_035.png,Karbohidrat Total 16 g,overlap
-fat_036.png,Lemak Total 0 g,clear
-fat_037.png,Lemak Total 0g,overlap
-fat_038.png,Lemak Total 0g,overlap
-fat_039.png,Lemak total / Total fat 0 g,overlap
-fat_040.png,Lemak total / Total fat 0 g,overlap
-fat_041.png,Lemak total / Total fat 0 g,overlap
-fat_042.png,Lemak total 0 g,clear
-fat_043.png,Lemak total / Total fat 0 g,overlap
-fat_044.png,Lemak Total 0 g,clear
-fat_045.png,Lemak Total 0 g,overlap
-fat_046.png,Lemak Total 0 g,overlap
-fat_047.png,Lemak Total / Total Fat 0 g,clear
-fat_048.png,Lemak Total / Total Fat 0 g,overlap
-fat_049.png,Lemak Total 0 g,clear
-fat_050.png,Lemak Total 0 g,clear
-fat_051.png,Lemak Total 0 g,overlap
-fat_052.png,Lemak Total 1 g,clear
-fat_053.png,Lemak Total 1 g,overlap
-fat_054.png,Lemak Total 1.5 g,clear
-fat_055.png,Lemak Total 0 g,overlap
-fat_056.png,Lemak Total 2.5 g 4 %,overlap
-fat_057.png,Lemak Total / Total fat 0 g,clear
-fat_058.png,Lemak Total / Total Fat 5 g,overlap
-fat_059.png,Lemak Total 0 g,clear
-fat_060.png,Total Fat/Lemak Total 0 g,overlap
-fat_061.png,Lemak Total 1.5 g,glare
-fat_062.png,Lemak Total 0 g,clear
-fat_063.png,Lemak Total 0 g,blur
-fat_064.png,Lemak Total/Total Fat 1.5 g,overlap
-fat_065.png,Lemak Total 1 g,overlap
-fat_066.png,Lemak Total 1 g,clear
-fat_067.png,Lemak Total 1.5 g,overlap
-fat_068.png,Lemak Total 1.5 g,overlap
-fat_069.png,Lemak Total 2.5 g,clear
-fat_070.png,Lemak Total 1.5 g,clear
-fat_071.png,Lemak Total 0.5 g,overlap
-fat_072.png,Lemak Total / Total Fat 0 g,clear
-fat_073.png,Lemak Total / Total Fat 0 g,clear
-fat_074.png,Lemak Total / Total Fat / 脂肪 0 g,clear
-fat_075.png,Lemak Total/ Total Fat 0 g,clear
-fat_076.png,Lemak Total/Total Fat 0 g,clear
-fat_077.png,Lemak Total 0g,overlap
-fat_078.png,Lemak Total/Total Fat 0 g,overlap
-fat_079.png,Lemak Total/Total Fat 0 g,blur
-fat_080.png,Lemak Total/Total Fat 0 g,overlap
-fat_081.png,Lemak total / Total Fat 0 g,overlap
-fat_082.png,Lemak Total / Total Fat 0 g,clear
-fat_083.png,Lemak Total/Total Fat…........2 g,clear
-fat_084.png,Lemak Total / Total Fat 3.5 g,clear
-sodium_001.png,Garam (Natrium) 115 mg,blur
-sodium_002.png,Natrium 90 mg,clear
-sodium_003.png,Garam (Natrium) / Salt (Sodium) 75 mg,glare
-sodium_004.png,Garam (Natrium) 115 mg,glare
-sodium_005.png,Garam (natrium)/Salt (sodium) 20 mg,blur
-sodium_006.png,Garam (natrium)/Salt (sodium) 5 mg,overlap
-sodium_007.png,Garam (Natrium) / Salt (Sodium) 135 mg,overlap
-sodium_008.png,Garam (Natrium)(Sodium) 45 mg,clear
-sodium_009.png,Garam (natrium) 310 mg,blur
-sodium_010.png,Garam (natrium) 115 mg,blur
-sodium_011.png,Garam (Natrium) 10mg,clear
-sodium_012.png,Natrium 40 mg,clear
-sodium_013.png,Garam (Natrium) 25 mg,overlap
-sodium_014.png,Natrium 60 mg,blur
-sodium_015.png,Garam (Natrium)/Salt (Sodium) 10 mg,clear
-sodium_016.png,Garam (Natrium)/Salt (Sodium) 25 mg,blur
-sodium_017.png,Garam (Natrium) 45 mg,blur
-sodium_018.png,Garam (Natrium) 25 mg,overlap
-sodium_019.png,Garam (Natrium) 0 mg,clear
-sodium_020.png,Garam (natrium)/Salt (sodium) 25 mg,overlap
-sodium_021.png,Garam(natrium)/Salt(sodium) 20 mg,overlap
-sodium_022.png,Garam (natrium/Salt (sodium) 150 mg,overlap
-sodium_023.png,Garam (Natrium) 125 mg,clear
-sodium_024.png,Garam (Natrium / Sodium 210 mg,clear
-sodium_025.png,Garam (Natrium) 125 mg,clear
-sodium_026.png,Garam / Natrium / Sodium 130 mg,overlap
-sodium_027.png,Garam / Natrium / Sodium 140 mg,clear
-sodium_028.png,Garam / Natrium / Sodium 140 mg,clear
-sodium_029.png,Natrium (Sodium) 160 mg,overlap
-sodium_030.png,Garam (Natrium) / Sodium 150 mg,clear
-sodium_031.png,Garam (Natrium) 55 mg,clear
-sodium_032.png,Garam (natrium) 85 mg,overlap
-sodium_033.png,Garam (Natrium) / Sodium 0 mg,clear
-sodium_034.png,Garam (Natrium) 0 mg,clear
-sodium_035.png,Garam (natrium) 10 mg,clear
-sodium_036.png,Garam (Natrium) 0mg,overlap
-sodium_037.png,Garam (Natrium) 0mg,overlap
-sodium_038.png,Natrium / Sodium 0 mg,overlap
-sodium_039.png,Natrium / Sodium 0 mg,overlap
-sodium_040.png,Garam (Natrium) / Salt (Sodium) 0 mg,clear
-sodium_041.png,Natrium 5 mg,clear
-sodium_042.png,Garam (Natrium) / Salt (Sodium) 0 mg,overlap
-sodium_043.png,Garam (Natrium) 0 mg,clear
-sodium_044.png,Garam (Natrium) 70 mg,overlap
-sodium_045.png,Garam (Natrium) 15 mg,overlap
-sodium_046.png,Garam(natrium) / Salt(sodium) 35 mg,blur
-sodium_047.png,Garam (natrium) / Salt (sodium) 20 mg,overlap
-sodium_048.png,Garam (Natrium) 15 mg,clear
-sodium_049.png,Garam (Natrium) 35 mg,clear
-sodium_050.png,Garam (Natrium) 35 mg,overlap
-sodium_051.png,Garam (Natrium) 55 mg,clear
-sodium_052.png,Garam (Natrium) 85 mg,overlap
-sodium_053.png,Garam (Natrium) 35 mg,blur
-sodium_054.png,Garam (Natrium) 35 mg,overlap
-sodium_055.png,Garam (Natrium) 120 mg,glare
-sodium_056.png,Garam (Natrium) / Salt (Sodium) 0 mg,clear
-sodium_057.png,Garam / Natrium / Sodium 120 mg,clear
-sodium_058.png,Garam (Natrium) 15 mg,clear
-sodium_059.png,Salt (Sodium)/Garam (Natrium) 120 mg ,overlap
-sodium_060.png,Garam (Natrium) 20 mg,clear
-sodium_061.png,Garam (Natrium) 70 mg,clear
-sodium_062.png,Garam (Natrium) 25 mg,blur
-sodium_063.png,Garam (natrium)/Salt (sodium) 10 mg,overlap
-sodium_064.png,Garam (Natrium) 20 mg,overlap
-sodium_065.png,Garam (Natrium) 15 mg,blur
-sodium_066.png,Garam (Natrium) 25 mg,overlap
-sodium_067.png,Garam (Natrium) 150 mg,overlap
-sodium_068.png,Garam (Natrium) 20 mg,clear
-sodium_069.png,Garam (Natrium) 25 mg,overlap
-sodium_070.png,Garam (Natrium) 30 mg,overlap
-sodium_071.png,Garam (natrium) / Salt (sodium) 20 mg,clear
-sodium_072.png,Garam (natrium) / Salt (sodium) 25 mg,overlap
-sodium_073.png,Garam (Natrium) / Sodium / 鈉 135mg,clear
-sodium_074.png,Garam (natrium)/ Salt (sodium) 10 mg,overlap
-sodium_075.png,Garam (natrium)/ Salt (sodium) 35 mg,overlap
-sodium_076.png,Garam (Natrium) 65 mg,overlap
-sodium_077.png,Garam (Natrium)/ Salt (Sodium) 75 mg,overlap
-sodium_078.png,Garam (Natrium)/Salt (Sodium) 85 mg,blur
-sodium_079.png,Garam (Natrium)/Salt (Sodium) 85 mg,blur
-sodium_080.png,Garam (natrium) / Salt (sodium) 25 mg,clear
-sodium_081.png,Garam (natrium) / Salt (sodium) 25 mg,clear
-sodium_082.png,Natrium/Sodium…........... 85 mg,clear
-sodium_083.png,Garam (Natrium) / Salt (Sodium) 85 mg,clear
-sodium_084.png,Garam (Natrium) 55 mg,clear
-sugar_001.png,Gula 6 g,blur
-sugar_002.png,Gula 26 g,clear
-sugar_003.png,Gula / Sugar 5 g,glare
-sugar_004.png,Gula 0 g,glare
-sugar_005.png,Gula/Sugar 6 g,clear
-sugar_006.png,Gula/Sugar 6 g,overlap
-sugar_007.png,Gula / Sugar 0 g,overlap
-sugar_008.png,Gula (Sugars) 19 g,clear
-sugar_009.png,Gula 6 g,clear
-sugar_010.png,Gula total 17 g,overlap
-sugar_011.png,Gula Total 0g,clear
-sugar_012.png,Gula Total 6 g,clear
-sugar_013.png,Gula 21 g,clear
-sugar_014.png,Gula 37 g,clear
-sugar_015.png,Gula/ Sugar 9 g,clear
-sugar_016.png,Gula/ Sugar 10 g,overlap
-sugar_017.png,Gula 22 g,clear
-sugar_018.png,Gula 19 g,clear
-sugar_019.png,Gula 11 g,clear
-sugar_020.png,Gula/Sugar 15 g,overlap
-sugar_021.png,Gula/Sugar 18 g,overlap
-sugar_022.png,Gula/Sugar 18 g,blur
-sugar_023.png,Gula 22 g,clear
-sugar_024.png,Gula / Sugar 17 g,clear
-sugar_025.png,Gula 23 g,overlap
-sugar_026.png,Gula / Sugar 17 g,overlap
-sugar_027.png,Gula / Sugar 17 g,overlap
-sugar_028.png,Gula / Sugar 14 g,clear
-sugar_029.png,Gula (Sugar) 21 g,overlap
-sugar_030.png,Gula / Sugar 21 g,clear
-sugar_031.png,Gula 4 g,clear
-sugar_032.png,Gula 12 g,overlap
-sugar_033.png,Gula / Sugar 25 g,clear
-sugar_034.png,Gula 11 g,clear
-sugar_035.png,Gula Total 13 g,clear
-sugar_036.png,Gula 13g,overlap
-sugar_037.png,Gula 11g,overlap
-sugar_038.png,Gula / Sugar 16 g,overlap
-sugar_039.png,Gula / Sugar 16 g,overlap
-sugar_040.png,Gula / Sugar 12 g,overlap
-sugar_041.png,Gula 24 g,clear
-sugar_042.png,Gula / Sugar 12 g,overlap
-sugar_043.png,Gula Total 0 g,clear
-sugar_044.png,Gula Total 0 g,clear
-sugar_045.png,Gula 27 g,overlap
-sugar_046.png,Gula / Sugars 21 g,blur
-sugar_047.png,Gula / Sugars 25 g,overlap
-sugar_048.png,Gula Total 12 g,clear
-sugar_049.png,Gula 1 g,clear
-sugar_050.png,Gula 1 g,overlap
-sugar_051.png,Gula Total 10 g,clear
-sugar_052.png,Gula Total 8 g,overlap
-sugar_053.png,Gula Total 8 g,clear
-sugar_054.png,Gula 1 g,overlap
-sugar_055.png,Gula Total 20 g,glare
-sugar_056.png,Gula / Sugar 12 g,clear
-sugar_057.png,Gula / Sugar 18 g,overlap
-sugar_058.png,Gula Total 9 g ,clear
-sugar_059.png,Total Sugars/Gula Total 7 g,overlap
-sugar_060.png,Gula Total 8 g,clear
-sugar_061.png,Gula Total 21 g,clear
-sugar_062.png,Gula 11 g,blur
-sugar_063.png,Gula/Sugar 12 g,overlap
-sugar_064.png,Gula 19 g,overlap
-sugar_065.png,Gula 18 g,blur
-sugar_066.png,Gula 18 g,overlap
-sugar_067.png,Gula Total 8 g,overlap
-sugar_068.png,Gula Total 8 g,clear
-sugar_069.png,Gula 18 g,overlap
-sugar_070.png,Gula 18 g,overlap
-sugar_071.png,Gula / Sugars 25 g,clear
-sugar_072.png,Gula / Sugars 20 g,overlap
-sugar_073.png,Gula / Sugars / 糖 30g,clear
-sugar_074.png,Gula/ Sugars 40 g,overlap
-sugar_075.png,Gula / Sugars 21 g,clear
-sugar_076.png,Gula 2 g,blur
-sugar_077.png,Gula / Sugars 23 g,overlap
-sugar_078.png,Gula / Sugars 23 g,clear
-sugar_079.png,Gula / Sugars 23 g,overlap
-sugar_080.png,Gula / Sugar 40 g,overlap
-sugar_081.png,Gula / Sugar 40 g,clear
-sugar_082.png,Gula/Sugar....................10 g,clear
-sugar_083.png,Gula / Sugar 9 g,overlap
-sugar_084.png,Gula 4 g,clear
+﻿file_name,text
+calories_0002.png,Energi Total 151 kcal 
+calories_0010.png,Energi Total 70 kkal
+calories_0040.png,Energi Total 100 kkal
+calories_0041.png,Energi Total 90 kkal
+calories_0043.png,Energi Total 80 kkal
+calories_0044.png,Energi Total 80 kkal
+calories_0058.png,Energi Total / Total Calories 100 kkal
+calories_0078.png,Energi Total 90 kkal
+calories_0079.png,Energi Total 140 kkal
+calories_0080.png,Energi Total 180 kkal
+calories_0081.png,Energi Total / Calories 100 kkal
+calories_0082.png,Energi Total 110 kkal
+calories_0083.png,Energi Total 350 kkal / Total Calories 350 kcal
+calories_0084.png,Energi Total 80 kkal
+calories_0085.png,Energi Total 110kkal
+calories_0086.png,Energi Total 70 kkal
+calories_0087.png,Energi Total / Total Energy 150 kkal
+calories_0088.png,Energi Total 70 kkal
+calories_0089.png,Energi Total/ Calories 80 kkal/ Cal
+calories_0090.png,Energi Total 100 kkal
+calories_0091.png,Energi Total 240 kkal
+calories_0092.png,Energi Total 410 kkal
+calories_0093.png,Energi Total/Total Calories 35 kkal
+calories_0094.png,Energi Total 70 kkal
+calories_0095.png,Energi Total / Total Calories 290 kkal
+calories_0096.png,Energi Total 100 kkal
+calories_0097.png,Energi Total / Total Energy 350 kkal
+calories_0098.png,Energy 140 kkal
+calories_0099.png,Energi Total / Total Energy 350 kkal
+calories_0100.png,Energi Total 50 kkal
+calories_0101.png,Energi Total/Total Calories 160 kkal/kcal
+calories_0102.png,Energi Total 50 kkal
+calories_0103.png,Energi Total 110 kkal
+calories_0104.png,Energi Total 100 kkal
+calories_0105.png,Energi Total / 60 kkal
+calories_0106.png,Energi Total 100 kkal
+calories_0107.png,Energi Total / Total Energy 60 kkal
+calories_0109.png,Energi Total (Total Calories) 100 kkal
+calories_0110.png,Energi Total (Total Calories) 100 kkal
+calories_0111.png,Energi Total 30 kkal
+calories_0112.png,Energi Total/Total Energy 150 kkal
+calories_0113.png,Energi Total / Total Calories 10 kkal/kcal
+calories_0114.png,Energi Total / Calories 110 kkal
+calories_0115.png,Energi Total / Total Energy 70 kkal
+calories_0116.png,Energi Total 80 kkal
+calories_0117.png,Energi Total 80 kkal
+calories_0118.png,Energi Total 80 kkal
+calories_0119.png,Energi Total 130 kkal
+calories_0120.png,Energi Total/Total Energy 120 kkal/kcal
+calories_0121.png,Energi Total : 80 kkal
+calories_0125.png,Energi Total / Total Calories 100 kkal / kcal
+calories_0126.png,Energi Total/Total Energy 80 kkal/kcal
+calories_0127.png,Total Energy 210 kcal
+calories_0128.png,Energi Total/Total Energy : 140kkal
+calories_0128.png,Energi Total / Total Calories 190 kkal / kcal
+calories_0130.png,Energi Total / Total Calories 190 kkal / kcal
+calories_0131.png,Energi Total / Total Calories 220 kkal / kcal
+calories_0136.png,Energi Total/Total Energy 130 kkal/kcal
+calories_0137.png,Energi Total/Total Energy 140 kkal/kcal
+calories_0138.png,Energi Total/Total Energy 80 kkal/kcal
+calories_0141.png,Energi Total/Total Energy : 90 kkal
+calories_0142.png,Energi Total/Total Energy : 150 kkal
+calories_0143.png,Energi Total / Calories 200 kkal / kcal
+calories_0145.png,Energi Total 190 kkal
+calories_0146.png,Energi Total : 120 kkal
+calories_0147.png,Energi Total (Total Energy) 80 kkal (kcal)
+calories_0148.png,Energi Total / Total Energy 140 kkal/kcal
+calories_0149.png,Energi Total / Total Energy 150 kkal/kcal
+calories_0150.png,Energi Total / Total Energy 150 kkal/kcal
+calories_0151.png,Energi Total : 60 kkal
+calories_0152.png,Energi Total : 60 kkal
+calories_0153.png,Energi Total : 60 kkal
+calories_0154.png,Energi Total/Total Calories 80 kkal
+calories_0155.png,Energi Total/Total Calories 80 kkal
+calories_0156.png,Energi Total/Total Calories 110 kkal
+calories_0157.png,Energi Total 110 kkal
+calories_0158.png,Energi Total 110 kkal
+calories_0159.png,Energi Total 100 kkal
+calories_0160.png,Energi Total / Total Energy 150 kkal / kcal
+calories_0161.png,Energi Total / Total Calories 100 kkal / kcal
+calories_0162.png,Energi Total / Total Calories 100 kkal / kcal
+calories_0163.png,Energi Total 110 kkal
+calories_0164.png,Energi Total 80 kkal
+calories_0165.png,Energi Total 80 kkal
+calories_0166.png,Energi Total / Total Calories 100 kkal / kcal
+calories_0167.png,Energi Total / Total Calories 100 kkal / kcal
+calories_0168.png,Energi Total / Total Calories 90 kkal / kcal
+calories_0169.png,Energi Total/Total Energy 100 kkal/kcal
+calories_0170.png,Energi Total 50 kkal
+calories_0171.png,Energi Total 100 kkal
+calories_0172.png,Energi Total / Total Energy 90 kkal
+calories_0173.png,Energi Total / Total Energy 90 kkal
+calories_0174.png,Energi Total / Total Energy 100 kkal
+calories_0175.png,Energi Total / Total Energy 50 kkal
+calories_0176.png,Energi Total 70 kkal
+calories_0177.png,Energi Total 60 kkal
+calories_0178.png,Energi Total/Total Calories 50 kkal/kcal
+calories_0179.png,Energi Total 110 kkal
+calories_0180.png,Energi Total/Total Energy 130 kkal
+calories_0181.png,Energi Total 110 kkal
+calories_0182.png,Energi Total (Energy) 170 kkal
+calories_0183.png,Energi Total / Total Calories 120 kkal
+calories_0184.png,Total Calories/Energi Total 80 kkal/kcal
+calories_0185.png,Total Energy 120 kcal
+calories_0186.png,Energi Total (Energy Total) 100 kkal
+calories_0187.png,Energi Total/Total Energy 110 kkal/kcal
+calories_0188.png,Energi Total/Total Calories 120 kkal
+calories_0189.png,Energi Total 140 kkal
+calories_0190.png,Energi Total 130 kkal
+calories_0191.png,Energi Total/ Calories 70 kkal/ Cal
+calories_0192.png,Energi Total / Total Energy 120 kkal / kcal
+calories_0193.png,Energi Total 90 kkal
+calories_0194.png,Energi Total / Total Calories 15 kkal
+calories_0195.png,Energi Total 130 kkal
+calories_0196.png,Energi Total / Total Energy 100 kkal
+calories_0197.png,Energi Total/Total Energy : 100 kkal
+calories_0198.png,Energi Total / Total Energy 200 kkal / kcal
+calories_0199.png,Energi Total / Total Energy 150 kkal/kcal
+calories_0200.png,Energi Total 150kkal
+calories_0201.png,Energi Total/ Total Energy 50 kkal
+calories_0202.png,Energi Total 70 kkal
+calories_0203.png,Energi Total 110 kkal
+calories_0204.png,Energi Total / Total Energy 90 kkal
+calories_0205.png,Energi Total 110 kkal
+calories_0206.png,Energi Total : 60 kkal
+calories_0207.png,Energi Total/Total Energy 120 kkal
+calories_0208.png,Energi Total / Total Energy 150 kkal / kcal
+calories_0209.png,Energi Total / Total Energy 150 kkal / kcal
+calories_0210.png,Energi Total / Total Energy 150 kkal / kcal
+calories_0211.png,Energi Total / Total Energy 150 kkal / kcal
+calories_0212.png,Energi Total 100 kkal
+calories_0213.png,Energi Total / Total Energy 90 kkal
+calories_0214.png,Energi Total / Total Energy 90 kkal
+calories_0215.png,Energi Total 40 kkal
+calories_0216.png,Energi Total 110 kkal
+calories_0217.png,Energi Total 110 kkal
+calories_0218.png,Energi Total 70 kkal
+calories_0219.png,Energi Total 100 kkal
+calories_0220.png,Energi Total 100 kkal
+calories_0221.png,Energi Total / 100 kkal
+calories_0222.png,Energi Total 140 kkal
+calories_0223.png,Energi Total 140 kkal
+calories_0224.png,Energi Total 140 kkal
+calories_0225.png,Energi Total / Total Energy 100 kkal/kcal
+calories_0226.png,Energi Total 140 kkal
+calories_0227.png,Energi Total 160 kkal
+calories_0228.png,Energi Total 45 kkal
+calories_0229.png,Energi Total/Total Energy 20 kkal/kcal
+calories_0231.png,Energi Total / Total Calories 80 kkal
+calories_0232.png,Energi Total / Calories 120 kkal
+calories_0233.png,Energi Total 110 kkal
+calories_0234.png,Energi Total (Total Calories) 100 kkal
+calories_0235.png,Energi Total 110 kkal
+calories_0236.png,Energi Total 100 kkal
+calories_0237.png,Energi Total/Total Calories 100 kkal
+calories_0238.png,Energi Total/Total Calories 90 kkal
+calories_0239.png,Energi Total/Total Calories 70 kkal
+calories_0240.png,Energi Total/Total Calories Energy 90 kkal
+calories_0241.png,Energi Total / Total Energy 100 kkal/kcal
+calories_0242.png,Energi Total / Total Energy : 80 kkal
+calories_0243.png,Energi Total / Total Energy 80 kkal
+calories_0245.png,Energi Total 210 kkal
+calories_0246.png,Energi Total 110 kkal
+calories_0247.png,Energi Total 140 kkal Total Energy 140 kkal
+calories_0248.png,Energi Total 100 kkal
+calories_0249.png,Energi Total / Total Calories 80 kkal (kcal)
+calories_0250.png,Energi Total / Total Calories 80 kkal (kcal)
+calories_0251.png,Energi Total / Total Calories 80 kkal (kcal)
+calories_0252.png,Energi Total : 50 kkal
+calories_0253.png,Energi Total 90 kkal
+calories_0254.png,Energi Total 150 kkal
+calories_0256.png,Energi Total 110 kkal
+calories_0257.png,Energi Total 90 kkal
+calories_0258.png,Energi Total 130 kkal
+calories_0259.png,Energi Total 70Kkal
+calories_0260.png,Energi Total 0 KKal
+calories_0262.png,Energi Total : 130 kkal
+calories_0263.png,Energi Total 150 kkal
+calories_0270.png,Energi Total 120 kkal
+calories_0271.png,Total Calories / Energi Total 90 kkal
+calories_0272.png,Energi Total / Total Energy 90 kkal / kcal
+calories_0273.png,Energi Total / Total Energy 90 kkal
+calories_0274.png,Energi Total 70 kkal
+calories_0275.png,Energi Total / Total Energy 15 kkal / kcal
+calories_0276.png,Energi Total/ 100 kkal
+calories_0277.png,Energi Total 110 kkal
+calories_0279.png,Total Energy / Total Energy 60 kkal
+calories_0280.png,Energi Total / Total Energy 100 kkal
+calories_0281.png,Energi Total / Total Energy 90 kkal
+calories_0282.png,Energi Total 70 kkal
+calories_0283.png,Energi Total 90 kkal
+calories_0284.png,Energi Total/ Calories 70 kkal/ Cal
+calories_0285.png,Energi Total /Total Energy 80 kkal/kcal
+calories_0286.png,Energi Total : 140 kkal
+calories_0287.png,Energi Total/ Calories 70 kkal/ Cal
+calories_0288.png,Energi Total / Total Calories 80 kkal
+calories_0289.png,Energi Total 150 kkal
+calories_0290.png,Energi Total/Total Eneray 70 kkal/kcal
+calories_0291.png,Calories 130 kkal/ kcal
+calories_0292.png,Calories 120 kkal/ kcal
+calories_0293.png,Energi Total / Total Calories 25 kkal / kcal
+calories_0294.png,Energi Total/ Calories 20 kkal/ Cal
+calories_0295.png,Energi Total/ Calories 20 kkal/ Cal
+calories_0296.png,Calories 80 kkal/ Cal
+calories_0297.png,Energi Total 90 kkal
+calories_0299.png,Energi Total / Total Energy 100 kkal
+calories_0300.png,Energi Total 80 kkal
+calories_0301.png,Energi Total / Total Energy 130 kkal / kcal
+calories_0302.png,Energi Total / Total Energy 50 kkal / kcal
+calories_0303.png,Energi Total/Total Energy 140 kkal/kcal
+calories_0304.png,Energi Total / Total Calories Energy 90 kkal
+calories_0305.png,Energi Total / Total Energy : 50 kkal
+calories_0306.png,Energi Total (Calories) : 120 kkal
+calories_0307.png,Energi Total / Total Energy 60 kkal
+calories_0308.png,Energi Total (Calories) 50 kkal
+calories_0309.png,Energi Total (Calories) 60 kkal
+calories_0310.png,Energi Total 120 kkal
+calories_0311.png,Energi Total 120 kkal
+calories_0312.png,Energi Total 120kkal
+calories_0313.png,Energi Total 200 kkal / kcal
+calories_0314.png,Energi Total 200 kkal / kcal
+calories_0315.png,Energi Total 190 Kkal
+calories_0316.png,Energi Total / Total Energy 100 kkal / kcal
+calories_0317.png,Energi Total 110 kkal
+calories_0318.png,"Energi Total / Calories, total  140 kkal/ 140 kcal"
+calories_0319.png,Energi Total / Total Calories 130 kkal
+calories_0320.png,Energi Total / Total Calories 100 kkal / kcal
+calories_0321.png,Energi Total (Calories): 130 kkal
+calories_0322.png,Energi Total / Total Energy 140 kkal/kcal
+calories_0323.png,Energi Total / Total Calories 130 kkal
+calories_0324.png,Energi Total : 170 kkal
+calories_0325.png,Energi Total/ Calories 70 kkal/ Cal
+calories_0326.png,Energi Total / Total Calories 130 kkal / kcal
+calories_0327.png,Calories / Kalori 100
+calories_0328.png,Energi Total 150 kkal
+calories_0329.png,Energi Total / Total Energy 100 kkal
+calories_0330.png,Energi Total 80 kkal
+calories_0331.png,Energi Total 120 kkal
+calories_0332.png,Energi Total / Total Energy 110 kkal
+calories_0333.png,Energi Total 160 kkal
+calories_0334.png,Energi Total 80 kkal
+calories_0335.png,Energi Total 130 kkal
+calories_0336.png,Energi Total 130 kkal
+calories_0338.png,Energi Total 120 kkal
+calories_0337.png,Energi Total 110 kkal
+calories_0339.png,Energi Total/Total Calories 70 kkal
+calories_0340.png,Energi Total/Total Calories 70 kkal
+calories_0341.png,Energi Total 110 kkal
+calories_0342.png,Energi Total 180 kkal
+calories_0343.png,Energi Total / Total Energy 160 kkal/kcal
+calories_0344.png,Energi total 45 kkal
+calories_0345.png,Energi total 45 kkal
+calories_0346.png,Energi Total 60 kkal
+calories_0347.png,Energi Total / Total Energy 90 kkal
+calories_0348.png,Energi Total / Total Energy 100 kkal
+calories_0349.png,Energi Total / Total Energy 250 kkal
+calories_0350.png,Energi Total / Total Energy 100 kkal/kcal
+calories_0352.png,Energi Total 25 kkal
+calories_0351.png,Energi Total / Calories 100 kkal
+calories_0353.png,Energi Total 100 kkal
+calories_0354.png,Energi Total 140 kkal
+calories_0355.png,Energi Total / Total Energy 30 kkal
+calories_0356.png,Energi Total 230 kkal
+calories_0357.png,Energi Total 15 kkal
+calories_0358.png,Energi total / Calories 80 kkal
+calories_0359.png,Energi total / Calories 80 kkal
+calories_0360.png,Energi Total / Calories 110 kkal
+calories_0361.png,Energi Total 110 kkal
+calories_0362.png,Energi Total 160 kkal
+calories_0363.png,Energi Total 160 kkal
+calories_0364.png,Energi Total 140 kkal
+calories_0365.png,Energi Total 130 kkal
+calories_0366.png,Energi total 80 kkal
+calories_0367.png,Energi Total/Total Energy 110 kkal
+calories_0368.png,Energi Total/Total Energy 110 kkal
+calories_0369.png,Energi Total/Total Energy 120 kkal
+calories_0370.png,Energi Total / Total Energy 280 kkal
+calories_0371.png,Energi Total/Total Energy 130 kkal
+calories_0372.png,Energi Total/Total Energy 140 kkal
+calories_0373.png,Energi Total/Total Energy 140 kkal
+calories_0374.png,Energi Total/Total Energy 140 kkal
+calories_0375.png,Energi Total / Total Energy 120 kkal
+calories_0376.png,Energi Total 90 kkal
+calories_0377.png,Energi Total 50 kkal
+calories_0378.png,Energi Total 110 kkal
+calories_0379.png,ENERGI TOTAL 170 KKAL
+calories_0380.png,Energi Total / Total Calories 180 kkal
+calories_0382.png,Energi Total 150 kkal
+calories_0383.png,Energi Total/Calories 200 kkal/kcal
+calories_0384.png,Energi Total 140 kkal
+calories_0385.png,Energi Total 130kkal
+calories_0386.png,Energi Total / Calories total  190 kkal/ 190 kcal
+calories_0387.png,Energi Total 100 kkal
+calories_0388.png,Energi Total/ Total Energy 160 kkal
+calories_0389.png,Energi Total / Total Energy 50 kkal
+calories_0390.png,Energi Total / Total Energy 160 kkal
+calories_0391.png,Energi Total/Total Energy 70 kkal
+calories_0392.png,Energi Total/Total Energy 70 kkal
+calories_0393.png,Energi Total/Total Energy 160 kkal
+calories_0394.png,Energi Total/Total Energy 210kkal
+calories_0395.png,Energi TOTAL 90 kkal
+calories_0396.png,Energi Total/Total Energy 110 kkal
+calories_0397.png,Energi total 240 kkal
+calories_0398.png,Energi Total : 120 kkal
+calories_0399.png,Energi total 190 kkal
+calories_0400.png,Energi total 250 kkal
+calories_0401.png,Energi total 200 kkal
+calories_0402.png,Energi total 180 kkal
+calories_0403.png,Energi Total / Calorios 210 kkal
+calories_0404.png,Energi Total/ Calories 80 kkal/ Cal
+calories_0405.png,Energi Total/ Calories 70 kkal/ Cal
+calories_0406.png,Energi Total/Total Energy 140 kkal
+calories_0407.png,Energi Total 210 kkal
+calories_0408.png,Energi Total / Total Energy 140 kkal/kcal
+calories_0409.png,Energi Total / Total Energy 90kkal
+calories_0410.png,Energi Total 300 kkal
+calories_0411.png,Energi Total 250 kkal
+calories_0412.png,Energi Total / Total calories 380 kkal
+calories_0413.png,Energi total 170kkal
+calories_0414.png,Energi Total 80 kkal
+calories_0415.png,Energi Total / Total Calories 100 kkal/kcal
+calories_0416.png,Energi Total 390 kkal
+calories_0417.png,Energi Total 100 kkal
+calories_0418.png,Energi Total / Total Energy 120 kkal
+calories_0419.png,Energi Total 380 kkal
+calories_0420.png,Energi Total 25 kkal
+calories_0421.png,Energi Total 220 kkal
+calories_0422.png,Energi Total / Total Energy 160 kkal / kcal
+calories_0423.png,Energi Total 90 kkal
+calories_0424.png,Energi Total 35 kkal
+calories_0425.png,Energi Total 100 kkal
+calories_0426.png,Energi Total 100 kkal
+calories_0428.png,Energi Total 50 kkal
+calories_0429.png,Energi Total 110 kkal
+calories_0430.png,Energi Total 110 kkal
+calories_0431.png,Energi Total / Total Energy 130 kkal
+calories_0432.png,Energi Total 45 kkal
+calories_0433.png,Energi Total/ Total Calories 160 kkal/160 kcal
+calories_0434.png,Energi Total/Total Energy 80 kkal
+calories_0435.png,Energi Total / Total energy 50 kkal
+calories_0436.png,Energi Total/ Total Energy 30kkal
+calories_0437.png,Energi Total/Total Calories: 100 kkal/100 kcal
+calories_0438.png,Energi Total/Total Calories: 90 kkal/90 kcal
+calories_0439.png,Energi Total / Total Calories: 100 kkal / 100 kcal
+calories_0440.png,Energi Total 40 kkal
+calories_0441.png,Energi Total 40 kkal
+calories_0442.png,Energi Total 45 kkal
+calories_0443.png,Energi Total 45 kkal
+calories_0444.png,Energi Total 45 kkal
+calories_0445.png,Energi Total 45 kkal
+calories_0446.png,Energi Total 25 kkal
+calories_0447.png,Energi Total 50kkal
+calories_0448.png,Energi Total 45 kkal
+calories_0449.png,Energi Total 45 kkal
+calories_0450.png,Energi Total 45 kkal
+calories_0451.png,Energi Total 40 kkal
+calories_0452.png,Energi Total 45 kkal
+calories_0453.png,Energi Total 45 kkal
+calories_0454.png,Energi Total 40 kkal
+calories_0455.png,Energi Total 45 kkal
+calories_0456.png,Energi Total 45 kkal
+calories_0457.png,Energi Total 45 kkal
+calories_0458.png,Energi Total 40 kkal
+calories_0459.png,Energi Total 45 kkal
+calories_0460.png,Energi Total 45 kkal
+calories_0461.png,Energi Total 45 kkal
+calories_0462.png,Energi Total 40 kkal
+calories_0463.png,Energi Total 60 kkal
+calories_0464.png,Energi Total 70 kkal
+calories_0465.png,Energi Total 110 kkal
+calories_0466.png,Energi Total 60 kkal
+calories_0467.png,Energi Total 45 kkal
+calories_0468.png,Energi Total 45 kkal
+calories_0469.png,EnergiTotal 150 kkal
+calories_0470.png,Energi Total 45 kkal
+calories_0471.png,Total Calories/Energi Total 60 kkal/kcal
+calories_0472.png,Energi Total 45 kkal
+calories_0473.png,Total Calories/Energi Total 50 kkal/kcal
+calories_0474.png,Energi Total / Total Calories 26 kkal
+calories_0475.png,Energi Total / Total Calories 25 kkal
+calories_0476.png,Energi Total 45 kkal
+calories_0477.png,Energi Total/Total Calories 25 kkal
+calories_0478.png,Energi Total/ Total Energy 30kkal
+calories_0479.png,Energi Total/ Total Energy 30kkal
+calories_0480.png,Energi Total/ Total Energy 30kkal
+calories_0481.png,Energi Total/ Calories 50kkal/ Cal
+calories_0482.png,Energi Total 60 kkal
+calories_0483.png,Energi Total 45 kkal
+calories_0484.png,Energi Total / Total Calories 120 kkal / kcal
+calories_0485.png,Energi Total/Total Energy 120 kkal
+calories_0486.png,Energi Total / Calories 70 kkal/ Cal
+calories_0487.png,Energi Total/Total Energy 130 kkal/kcal
+calories_0488.png,Energi Total / Total Energy 110 kkal
+calories_0489.png,Energi Total 110 kkal
+calories_0490.png,Energi Total 110 kkal
+calories_0491.png,Calories 60 kkal/ Cal
+calories_0492.png,Energi Total / Total Calories 90 kkal (kcal)
+calories_0493.png,Energi Total / Total Calories 90 kkal (kcal)
+calories_0494.png,Energi Total / Total Energy 240 kkal / kcal
+calories_0495.png,Energi Total 110 kkal
+calories_0496.png,Energi Total/Total Energy 110 kkal/kcal
+calories_0497.png,Energi total 25 kkal
+calories_0498.png,Energi Total / Total Calories 100 kkal/kcal
+calories_0499.png,Energi Total/ Calories 50 kkal/ Cal
+calories_0500.png,Energi Total/ Calories 50 kkal/ Cal
+calories_0501.png,Energi Total 90 kkal
+calories_0502.png,Energi Total / Total Energy 80 kkal/kcal
+calories_0503.png,Energi Total / Calories 210 kkal / kcal
+calories_0505.png,Energi Total 370 kkal
+calories_0506.png,Energi Total / Total Energy 80 kkal / kcal
+calories_0507.png,Energi Total/Total Energy 120 kkal
+calories_0508.png,Energi Total/Total Energy 120 kkal
+calories_0509.png,Energi Total/Total Calories 150 kkal/kcal
+calories_0510.png,Energi Total 160 kkal Total Energy 160 kcal
+calories_0511.png,Energi total 30 kkal
+calories_0512.png,Energi Total / Total Calories 130 kkal / kcal
+calories_0513.png,Energi total 120 kkal
+calories_0514.png,Energi Total 20 KKal
+calories_0515.png,Energi Total 110 kkal
+calories_0516.png,Energi Total 80 kkal
+calories_0517.png,Energi Total 90 Kkal
+calories_0518.png,Energi Total 150 kkal
+calories_0519.png,Energi Total/ Calories 45 kkal/ Cal
+calories_0520.png,Energi Total/ Calories 50 kkal/ Cal
+calories_0521.png,Energi total 90 kkal
+calories_0522.png,Energi Total 90 Kkal
+calories_0523.png,Energi Total : 70 kkal
+calories_0524.png,Energi Total / Total Energy 120 kkal
+calories_0525.png,Energi Total / Total Energy 130 kkal
+calories_0526.png,Energi Total / Total Energy 90 kkal
+calories_0527.png,Energi Total 120 kkal
+calories_0528.png,Energi total / Calories 160 kkal
+calories_0529.png,Energi Total 130 kkal
+calories_0530.png,EnergiTotal/Calories 150kkal
+calories_0531.png,EnergiTotal/Calories 150kkal
+calories_0532.png,EnergiTotal/Calories 130kkal
+calories_0533.png,Energi total / Calories 170 kkal
+calories_0534.png,Energi total / Calories 170 kkal
+calories_0535.png,Energi Total 80 kkal
+calories_0536.png,Energi Total 45 kkal
+calories_0537.png,Energi Total / Calories 110 kkal
+calories_0538.png,Energi Total 70 kkal
+calories_0539.png,Energi Total 100 kkal
+calories_0540.png,Energi Total 80 kkal
+calories_0541.png,Energi Total 60 kkal
+calories_0542.png,Energi Total / Total energy 70 kkal
+calories_0543.png,Energi Total / Total energy 70 kkal
+calories_0544.png,Energi Total / Total Energy 50 kkal
+calories_0545.png,Energi total 140 kkal
+calories_0546.png,Energi total / Total energy 50 kkal
+calories_0547.png,Energi Total 20 kkal
+calories_0548.png,Energi Total 60 kkal
+calories_0549.png,Energi Total 100 kkal
+calories_0550.png,Energi Total / Total Calories 90 kkal / kcal
+calories_0551.png,Energi Total / Total Calories 110 kkal
+calories_0552.png,Energi Total 50 kkal
+calories_0553.png,Energi Total 5 kkal
+calories_0554.png,Energi Total 5 kkal
+calories_0555.png,Energi Total 60 kkal
+calories_0556.png,Energi Total 60 kkal
+calories_0557.png,Energi Total 60 kkal
+calories_0558.png,Energi Total 5 kkal
+calories_0559.png,Energi Total 120 kkal
+calories_0560.png,Energi Total / Total energy 50 kkal
+calories_0561.png,Energi Total/Calories 160 kkal
+calories_0562.png,Energi Total 45 kkal
+calories_0563.png,Total Calories/Energi Total 50 kkal/kcal
+calories_0564.png,Energi Total 60 kkal
+calories_0565.png,Energi Total 110 kkal
+calories_0566.png,Energi Total 50 kkal
+calories_0567.png,Energi Total / Total energy 90 kkal
+calories_0568.png,Energi Total 100 kkal
+calories_0569.png,Energi Total 100 kkal
+calories_0570.png,Energi Total 100 kkal
+calories_0571.png,Energi Total 60kkal
+calories_0572.png,Energi Total 60 kkal
+calories_0573.png,Energi Total 100 kkal
+calories_0574.png,Energi Total 100 kkal
+calories_0575.png,Energi Total / Total Calories 110 kkal / 110 kcal
+calories_0576.png,Energi Total / Total Calories 120 kkal / 120 kcal
+calories_0577.png,Energi Total / Total Calories 160 kkal / kcal
+calories_0578.png,Energi Total / Total Calories 180 kkal / 180 kcal
+calories_0579.png,Energi Total / Total Calories 100 kkal / 100 kcal
+calories_0580.png,Energi Total 15 kkal
+calories_0581.png,Energi Total / Total Calories 110 kkal
+calories_0582.png,Energi Total / Total Calories 120 kkal
+calories_0583.png,Energi Total / Total Calories 120 kkal
+calories_0584.png,Energi Total / Total Calories 170 kkal
+calories_0585.png,Energi Total / Total Calories 170 kkal
+calories_0586.png,Energi Total / Total Calories 130 kkal
+carbs_0002.png,Carbohydrate 22.5 g  10.2 g
+carbs_0010.png,Karbohidrat Total 13g
+carbs_0040.png,Karbohidrat 19g
+carbs_0041.png,Karbohidrat 17g
+carbs_0043.png,Karbohidrat Total 11g
+carbs_0044.png,Karbohidrat Total 11g
+carbs_0076.png,Karbohidrat Total / Total Carbohydrate 37 g
+carbs_0078.png,Karbohidrat Total 17g
+carbs_0079.png,Karbohidrat total 20 g
+carbs_0080.png,Karbohidrat Total 36 g
+carbs_0081.png,Karbohidrat Total / 14 g
+carbs_0082.png,Karbohidrat Total 11 g
+carbs_0083.png,Karbohidrat Total / Total Carbohydrate 55 g
+carbs_0084.png,Karbohlarat Total 8 g
+carbs_0085.png,Karbohidrat Total 23 g
+carbs_0086.png,Karbohidrat Total 16 g
+carbs_0087.png,Karbohidrat Total / Total Carbohydrate 4 g
+carbs_0088.png,Karbohidrat Total 10 g
+carbs_0089.png,Total Carbohydrate 11 g
+carbs_0091.png,Karbohidrat Total 26 g
+carbs_0092.png,Karbohidrat Total 52 g
+carbs_0093.png,Karbohidrat Total / 6 g
+carbs_0094.png,Karbohidrat Total 7 g
+carbs_0095.png,Karbohidrat Total / Total Carbohydrate 47 g
+carbs_0096.png,Karbohidrat Total 12 g
+carbs_0097.png,Karbohidrat Total / Total Carbohydrate 43 g
+carbs_0098.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0099.png,Karbohidrat Total 43 g
+carbs_0100.png,Karbohidrat Total 6 g
+carbs_0101.png,Karbohidrat Total / Total Carbohydrate 5 g
+carbs_0102.png,Karbohidrat Total 6 g
+carbs_0103.png,Karbohidrat Total 11 g
+carbs_0104.png,Karbohidrat Total 13 g
+carbs_0105.png,Karbohidrat Total/Total carbohydrate 7 g
+carbs_0106.png,Karbohidrat Total 14 g
+carbs_0107.png,Karbohidrat Total / Total Carbohydrate 9 g
+carbs_0108.png,Karbohidrat Total / Total Carbohydrate 27 g
+carbs_0109.png,Karbohidrat Total / Total Carbohydrate 12 g
+carbs_0110.png,Karbohidrat / Carbohydrate 12 g
+carbs_0112.png,Karbohidrat Total 7 g
+carbs_0113.png,Karbohidrat Total/Total Carbohydrate 21 g
+carbs_0114.png,Karbohidrat Total / Total Carbohydrate 2g
+carbs_0115.png,Total Carbohydrate 11 g
+carbs_0116.png,Karbohidrat Total / Total Carbohydrate 15 g
+carbs_0117.png,Karbohidrat Total 8 g
+carbs_0118.png,Karbohidrat Total 8 g
+carbs_0119.png,Karbohidrat Total 8 g
+carbs_0120.png,Karbohidrat Total 17 g
+carbs_0121.png,Total Carbohydrate 20 g
+carbs_0122.png,Karbohidrat Total  8 g
+carbs_0126.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0127.png,Karbohidrat Total/ 12 g
+carbs_0128.png,Total Carbohydrate 26 g
+carbs_0129.png,Total Carbohydrate 21 g
+carbs_0130.png,Karbohidrat Total / 21 g
+carbs_0131.png,Total Carbohydrate 21 g
+carbs_0132.png,Total Carbohydrate 23 g
+carbs_0133.png,Total Carbohydrate 30 g
+carbs_0134.png,Karbohidrat Total / 29 g
+carbs_0135.png,Total Carbohydrate 22g
+carbs_0136.png,Total Carbohydrate 18g
+carbs_0137.png,Karbohidrat Total/Total Carbohydrate 14 g
+carbs_0138.png,Karbohidrat Total/Total Carbohydrate 14 g
+carbs_0140.png,Total Carbohydrate 13 g
+carbs_0141.png,Total Carbohydrate 12 g
+carbs_0142.png,Total Carbohydrate 12g
+carbs_0143.png,Total Carbohydrate 20g
+carbs_0144.png,Total Carbohydrate 27 g
+carbs_0145.png,Karbohidrat Total/ 14 g
+carbs_0146.png,Karbohidrat Total 21 g
+carbs_0147.png,Karbohidrat Total 20 g
+carbs_0148.png,Karbohidrat Total 12g
+carbs_0149.png,Karbohidrat Total / Total Carbohydrate 22 g
+carbs_0150.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0151.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0152.png,Karbohidrat Total / Total Carbohydrate 1 g
+carbs_0153.png,Karbohidrat Total / Total Carbohydrate 1 g
+carbs_0155.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0156.png,Karbohidrat Total/Total Carbohydrate 9 g
+carbs_0157.png,Total Carbohydrate 10g
+carbs_0158.png,Karbohidrat Total 11 g
+carbs_0159.png,Karbohidrat Total 11 g
+carbs_0160.png,Karbohidrat Total 12 g
+carbs_0161.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0162.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0163.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0164.png,Karbohidrat Total 18 
+carbs_0165.png,Karbohidrat Total 10 g
+carbs_0166.png,Karbohidrat Total 9 g
+carbs_0167.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0168.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0169.png,Karbohidrat Total / Total Carbohydrate 15 g
+carbs_0170.png,Total Carbohydrate 17 g
+carbs_0171.png,Karbohidrat Total 9 g
+carbs_0172.png,Karbohidrat Total 13 g
+carbs_0173.png,Karbohidrat Total / Total Carbohydrate 15 g
+carbs_0174.png,Karbohidrat Total / Total Carbohydrate 16 g
+carbs_0175.png,Karbohidrat Total / Total Carbohydrate 11 g
+carbs_0176.png,Karbohidrat Total / Total Carbohydrate 7 g
+carbs_0177.png,Karbohidrat Total 11 g
+carbs_0178.png,Karbohidrat Total 8 g
+carbs_0179.png,Karbohidrat Total / Total Carbohydrate 5 g
+carbs_0180.png,Karbohidrat Total 15 g
+carbs_0181.png,Karbohidrat Total/Total Carbohydrate 20 g
+carbs_0182.png,Karbohidrat Total 18 g
+carbs_0183.png,(Total Carbohydrate) 25 g
+carbs_0184.png,Karbohidrat Total/Total Carbohydrate 30 g
+carbs_0185.png,Karbohidrat Total 16 g
+carbs_0186.png,Karbohidrat Total 21 g
+carbs_0187.png,Karbohidrat Total 15g
+carbs_0188.png,Karbohidrat Total/Total Carbohydrate 19 g
+carbs_0189.png,Karbohidrat Total / Total Carbohydrates 22 g
+carbs_0190.png,Karbohidrat Total 27 g
+carbs_0191.png,Karbohidrat Total 33 g
+carbs_0192.png,Total Carbohydrate 11 g
+carbs_0193.png,Karbohidrat Total 17 g
+carbs_0194.png,Karbohidrat Total  11 g
+carbs_0195.png,Karbohidrat Total / Total Carbohydrate 1 g
+carbs_0196.png,Karbohidrat Total 25 g
+carbs_0197.png,Karbohidrat Total / Total Carbohydrate 13 g
+carbs_0198.png,Total Carbohydrate 14 g
+carbs_0199.png,Total Carbohydrate 27 g
+carbs_0200.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0201.png,Karbohidrat Total 6 g
+carbs_0202.png,Karbohidrat Total 12 g
+carbs_0203.png,Karbohidrat Total 11 g
+carbs_0204.png,Karbohidrat Total 18 g
+carbs_0205.png,Karbohidrat Total 16 g
+carbs_0206.png,Karbohidrat Total 24 g
+carbs_0207.png,Karbohidrat Total / Total Carbohydrate 1 g
+carbs_0208.png,Karbohidrat Total/Total Carbohydrate 18 g
+carbs_0209.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0210.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0211.png,Karbohidrat Total / Total Carbohydrate 20 g
+carbs_0212.png,Karbohidrat Total / Total Carbohydrate 20 g
+carbs_0213.png,Karbohidrat Total 12 g
+carbs_0214.png,Karbohidrat Total / Total Carbohydrate 15 g
+carbs_0215.png,Karbohidrat Total / Total Carbohydrate 15 g
+carbs_0216.png,Karbohidrat Total 9 g
+carbs_0217.png,Karbohidrat Total 11 g
+carbs_0218.png,Karbohidrat Total 11 g
+carbs_0219.png,Karbohidrat Total 11 g
+carbs_0220.png,Karbohidrat Total 10 g
+carbs_0221.png,Karbohidrat Total 12 g
+carbs_0222.png,Karbohidrat Total 13 g
+carbs_0223.png,Karbohidrat Total 14 g
+carbs_0224.png,Karbohidrat Total 15 g
+carbs_0225.png,Karbohidrat Total 15 g
+carbs_0226.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0227.png,Karbohidrat Total 23 g
+carbs_0228.png,Karbohidrat Total 20 g
+carbs_0229.png,Karbohidrat Total 6 g
+carbs_0230.png,Karbohidrat Total/Total Carbohydrate 5 g
+carbs_0231.png,Karbohidrat Total / Total carbohydrate 9g
+carbs_0232.png,Karbohidrat Total / Total carbohydrate 9g
+carbs_0233.png,Total Carbohydrate 10 g
+carbs_0234.png,Karbohidrat Total 8 g
+carbs_0235.png,Karbohidrat / Carbohydrate 12 g
+carbs_0236.png,Karbohidrat Total 12 g
+carbs_0237.png,Karbohidrat Total 14 g
+carbs_0238.png,Karbohidrat Total/Total Carbohydrate 12 g
+carbs_0239.png,Karbohidrat Total/Total Carbohydrate 15 g
+carbs_0240.png,Karbohidrat Total/Total carbohydrate 14 g
+carbs_0241.png,Karbohidrat Total / Total Carbohydrate 13 g
+carbs_0242.png,Karbohidrat Total / Total Carbohydrate 17 g
+carbs_0243.png,Total Carbohydrate 17 g
+carbs_0244.png,Total Carbohydrate 21 g
+carbs_0245.png,Karbohidrat Total 25 g
+carbs_0246.png,Karbohidrat Total 18 g
+carbs_0247.png,Karbohidrat Total 34 g
+carbs_0248.png,Total Carbohydrate 24 g
+carbs_0249.png,Total Carbohydrate 20 g
+carbs_0250.png,Total Carbohydrate 19 g
+carbs_0251.png,Total Carbohydrate 21 g
+carbs_0252.png,Karbohidrat Total 11 g
+carbs_0253.png,Karbohidrat Total 24g
+carbs_0254.png,Karbohidrat Total 37 g
+carbs_0256.png,Karbohidrat Total 17 g
+carbs_0257.png,Karbohidrat Total 10 g
+carbs_0258.png,Karbohidrat Total 11 g
+carbs_0259.png,Karbohidrat Total 17.5g
+carbs_0260.png,Karbohidrat Total 0g
+carbs_0262.png,Karbohidrat Total 27 g
+carbs_0263.png,Karbohidrat Total 20 g
+carbs_0270.png,Karbohidrat Total 12 g
+carbs_0271.png,Total Carbohydrates Karbohidrat Total 17
+carbs_0272.png,Karbohidrat Total / Total Carbohydrate 16 g
+carbs_0273.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0274.png,Karbohidrat Total 16 g
+carbs_0275.png,Karbohidrat Total / Total Carbohydrate 2 g
+carbs_0276.png,Karbohidrat Total 13 g
+carbs_0277.png,Karbohidrat Total 26g
+carbs_0278.png,Karbohidrat Total / Total Carbohydrate 11g
+carbs_0279.png,Karbohidrat Total / Total Carbohydrate 8 g
+carbs_0280.png,Karbohidrat Total / Total Carbohydrate 11 g
+carbs_0281.png,Karbohidrat Total / Total Carbohydrate 16 g
+carbs_0282.png,Karbohidrat Total 10 g
+carbs_0283.png,Karbohidrat Total 8 g
+carbs_0284.png,Total Carbohydrate 11 g
+carbs_0285.png,Karbohidrat Total / Total Carbohydrate 17 g
+carbs_0286.png,Karbohidrat Total 19 g
+carbs_0287.png,Total Carbohydrate 11 g
+carbs_0288.png,Karbohidrat Total / Total Carbohydrate 12 g
+carbs_0289.png,Karbohidrat Total 21 g
+carbs_0290.png,Karbohidrat Total/Total Carbohydrate 9 g
+carbs_0291.png,Total Carbohydrate 19 g
+carbs_0292.png,Karbohidrat Total / Total Carbohydrate 4 g
+carbs_0293.png,Karbohidrat Total/ Total Carbohydrate 3 g
+carbs_0294.png,Karbohidrat Total/ Total Carbohydrate 3 g
+carbs_0295.png,Total Carbohydrate 10 g
+carbs_0296.png,Karbohidrat Total 11 g
+carbs_0298.png,Karbohidrat Total / Total Carbohydrate 10 g
+carbs_0299.png,Karbohidrat Total 10 g
+carbs_0300.png,Total Carbohydrate 16 g
+carbs_0301.png,Karbohidrat Total/Total Carbohydrate 14 g
+carbs_0302.png,Karbohidrat Total/Total Carbohydrate 14 g
+carbs_0303.png,Karbohidrat Total / Total Carbohydrate 7 g
+carbs_0304.png,Karbohidrat Total (Total Carbohydrate) 4 g
+carbs_0305.png,Karbohidrat Total / Total Carbohydrate 5 g
+carbs_0306.png,(Total Carbohydrate) 6 g
+carbs_0307.png,(Total Carbohydrate) 6 g
+carbs_0308.png,Karbohidrat Total 25 g
+carbs_0309.png,Karbohidrat Total 25 g
+carbs_0310.png,Karbohidrat Total 26 g
+carbs_0311.png,Total Carbohydrate 27 g
+carbs_0312.png,Total Carbohydrate 27 g
+carbs_0313.png,Karbohidrat Total 23 g
+carbs_0314.png,Karbohidrat Total / Total Carbohydrate 12 g
+carbs_0315.png,Kabohidrat Total 18 g
+carbs_0316.png,Karbohidrat Total 20.0g
+carbs_0317.png,Karbohidrat Total / Total Carbohydrate 20 g
+carbs_0318.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0319.png,Karbohidrat Total (Total Carbohydrate) 23 g
+carbs_0320.png,Karbohidrat Total / Total Carbohydrate 22 g
+carbs_0321.png,Karbohidrat Total / Total Carbohydrate 19 g
+carbs_0322.png,Karbohidrat Total 26 g
+carbs_0323.png,Karbohidrat Total/ Total Carbohydrate 11 g
+carbs_0324.png,Karbohidrat Total / Total carbohydrate 25 g
+carbs_0325.png,Total Carbohydrate / Jumlah Karbohidrat 11 g
+carbs_0326.png,Karbohidrat Total 19 g
+carbs_0327.png,Karbohidrat Total / Total Carbohydrate 12 g
+carbs_0328.png,Karbohidrat Total 10 g
+carbs_0329.png,Karbohidrat Total 17 g
+carbs_0330.png,Karbohidrat Total / Total Carbohydrate 12 g
+carbs_0331.png,Karbohidrat Total 11 g
+carbs_0332.png,Karbohidrat Total 18 g
+carbs_0333.png,Karbohidrat Total 17 g
+carbs_0334.png,Karbohidrat Total 15 g
+carbs_0335.png,Karbohidrat Total 12 g
+carbs_0336.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0337.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0338.png,Karbohidrat Total 12 g
+carbs_0339.png,Karbohidrat Total 24 g
+carbs_0340.png,Total Carbohydrate 20 g
+carbs_0341.png,Karbohidrat Total 8 g
+carbs_0342.png,Karbohidrat Total 8 g
+carbs_0343.png,Karbohidrat Total 8 g
+carbs_0344.png,Karbohidrat Total / Total Carbohydrate 15 g
+carbs_0345.png,Karbohidrat Total / Total Carbohydrate 11 g
+carbs_0346.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0347.png,Karbohidrat Total / Total Carbohydrate 13 g
+carbs_0348.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0349.png,Karbohidrat Total 2 g
+carbs_0350.png,Karbohidrat Total 14 g
+carbs_0351.png,Karbohidrat Total 11 g
+carbs_0352.png,Karbohidrat Total / Total Carbohydrate 1 g
+carbs_0353.png,Karbohidrat Total 33 g
+carbs_0354.png,Karbohidrat Total 2g
+carbs_0355.png,Karbohidrat Total 19 g
+carbs_0356.png,Karbohidrat Total 17 g
+carbs_0357.png,Karbohidrat Total 12 g
+carbs_0358.png,Karbohidrat Total 11 g
+carbs_0359.png,Karbohidrat Total 18 g
+carbs_0360.png,Karbohidrot Total 10 g
+carbs_0361.png,Karbohidrat Total 12 g
+carbs_0362.png,Karbohidrat Total 3 g
+carbs_0363.png,Karbohidrat Total 16 g
+carbs_0364.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0365.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0366.png,Karbohidrat Total/Total Carbohydrate 9 g
+carbs_0367.png,Karbohidrat Total / Total Carbohydrate 29 g
+carbs_0368.png,Karbohidrat Total/Total Carbohydrate 16 g
+carbs_0370.png,Karbohidrat Total/Total Carbohydrate 15 g
+carbs_0371.png,Karbohidrat Total/Total Carbohydrate 15 g
+carbs_0372.png,Karbohidrat Total / Total Carbohydrate 16 g
+carbs_0373.png,Karbohidrat Total 14 g
+carbs_0374.png,Karbohidrat Total 6 g
+carbs_0375.png,Karbohidrat Total 10 g
+carbs_0376.png,Karbohidrat Total (Total carbohydrate) 16 g
+carbs_0377.png,Karbohidrat Total / Total 9 g
+carbs_0378.png,Karbohidrat Total 5 g
+carbs_0379.png,Karbohidrat Total 6 g
+carbs_0380.png,Karbohidrat Total/Carbohydrate 3 g
+carbs_0381.png,Karbohidrat Total 11 g
+carbs_0382.png,Karbohidrat Total 20g
+carbs_0383.png,Karbohidrat Total / 11.0g
+carbs_0384.png,Karbohidrat Total 14g
+carbs_0385.png,Karbohidrat Total/ Total Carbohydrate 19 g
+carbs_0386.png,Karbohidrat Total/Total Carbohydrate 6 g
+carbs_0387.png,Karbohidrat Total / Total Carbohydrate 18 g
+carbs_0388.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0389.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0390.png,Karbohidrat Total/Total Carbohydrate 20g
+carbs_0391.png,Karbohidrat Total/Total Carbohydrate 26 g
+carbs_0392.png,Karbohidrat Total 14 g
+carbs_0393.png,Karbohidrat Total/Total Carbohydrate 19 g
+carbs_0394.png,Karbohidrat Total 34 g
+carbs_0395.png,Karbohidrat Total 20 g
+carbs_0396.png,Karbohidrat Total 26 g
+carbs_0397.png,Karbohidrat Total 32 g
+carbs_0398.png,Karbohidrat Total 27 g
+carbs_0399.png,Karbohidrat Total 22g
+carbs_0400.png,Karbohidrat Total / Total Carbohydrates 8 g
+carbs_0401.png,Total Carbohydrate 10 g
+carbs_0402.png,Total Carbohydrate 11 g
+carbs_0403.png,Total Carbohydrate 21 g
+carbs_0404.png,Karbohidrat Total 25 g
+carbs_0405.png,Karbohidrat Total / Total Carbohydrate 22 g
+carbs_0406.png,Karbohidrat Total / Total Carbohydrate 2g
+carbs_0407.png,Karbohidrat Total 36 g
+carbs_0408.png,Karbohidrat Total 37 g
+carbs_0409.png,Karbohidrat Total / Total Carbohydrate 68 g
+carbs_0410.png,Karbohidrat Total 33 g
+carbs_0411.png,Karbohidrat Total 19 g
+carbs_0412.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0413.png,Karbohidrat Total 53 g
+carbs_0414.png,Karbohidrat Total 21 g
+carbs_0415.png,Karbohidrat Total 23 g
+carbs_0416.png,Karbohidrat Total 54 g
+carbs_0417.png,Karbohidrat Total 5 g
+carbs_0418.png,Karbohidrat Total 30 g
+carbs_0419.png,Karbohidrat Total/Total Carbohydrate 30 g
+carbs_0420.png,Karbohidrat Total 0 g
+carbs_0421.png,Karbohidrat Total 8 g
+carbs_0422.png,Karbohidrat Total 4 g
+carbs_0423.png,Karbohidrat Total 4 g
+carbs_0424.png,Karbohidrat Total / Total Carbohydrate 9 g
+carbs_0425.png,Karbohidrat Total 6 g
+carbs_0426.png,Karbohidrat Total 11 g
+carbs_0427.png,Karbohidrat Total 12 g
+carbs_0428.png,Karbohidrat Total / Total Carbohydrate 22 g
+carbs_0429.png,Karbohidrat Total 11 g
+carbs_0430.png,Karbohidrat Total / Total Carbohydrate 40 g
+carbs_0431.png,Karbohidrat Total / Total Carbohydrate 21 g
+carbs_0432.png,Karbohidrat Total / Total carbohydrate 12 g
+carbs_0433.png,Total Carbohydrate 8 g
+carbs_0434.png,Karbohidrat Total/Total Carbohydrate 25 g
+carbs_0435.png,Karbohidrat Total / Total Carbohydrate 22 g
+carbs_0436.png,Karbohidrat Total / Total Carbohydrate 24 g
+carbs_0437.png,Karbohidrat Total 11 g
+carbs_0438.png,Karbohidrat Total 11 g
+carbs_0439.png,Karbohidrat Total 11 g
+carbs_0442.png,Karbohidrat Total 11 g
+carbs_0443.png,Karbohidrat Total 6 g
+carbs_0444.png,Karbohidrat Total 13 g
+carbs_0445.png,Karbohidrat Total 11 g
+carbs_0446.png,Karbohidrat Total 11 g
+carbs_0447.png,Karbohidrat Total 11 g
+carbs_0448.png,Karbohidrat Total 10 g
+carbs_0449.png,Karbohidrat Total 11 g
+carbs_0450.png,Karbohidrat Total 11 g
+carbs_0451.png,Karbohidrat Total 10 g
+carbs_0452.png,Karbohidrat Total 11 g
+carbs_0453.png,Karbohidrat Total 11 g
+carbs_0454.png,Karbohidrat Total 11 g
+carbs_0455.png,Karbohidrat Total 10 g
+carbs_0456.png,Karbohidrat Total 11 g
+carbs_0457.png,Karbohidrat Total 11 g
+carbs_0458.png,Karbohidrat Total 10 g
+carbs_0459.png,Karbohidrat Total 10 g
+carbs_0460.png,Karbohidrat Total 10 g
+carbs_0461.png,Karbohidrat Total 12 g
+carbs_0462.png,Karbohidrat Total 23 g
+carbs_0463.png,Karbohidrat Total 11 g
+carbs_0464.png,Karbohidrat Total 11 g
+carbs_0465.png,Karbohidrat Total 11 g
+carbs_0466.png,Karbohidrat Total 29 g
+carbs_0467.png,Karbohidrat Total 12 g
+carbs_0468.png,Karbohidrat Total 13 g
+carbs_0469.png,Karbohidrat Total 11 g
+carbs_0470.png,Karbohidrat Total 13 g
+carbs_0471.png,Karbohidrat Total/ 6 g
+carbs_0472.png,Karbohidrat Total/ 6 g
+carbs_0473.png,Karbohidrat Total 11 g
+carbs_0475.png,Total Carbohydrate 8 g
+carbs_0476.png,Total Carbohydrate 8 g
+carbs_0477.png,Total Carbohydrate 8 g
+carbs_0478.png,Total Carbohydrate 13 g
+carbs_0479.png,Karbohidrat Total 11 g
+carbs_0480.png,Karbohidrat Total 11 g
+carbs_0481.png,Karbohidrat Total/Total Carbohydrate 11 g
+carbs_0482.png,Karbohidrat Total / Total Carbohydrate 18 g
+carbs_0483.png,Total Carbohydrate 11 g
+carbs_0484.png,Karbohidrat Total/Total Carbohydrate 19 g
+carbs_0485.png,Karbohidrat Total / Total Carbohydrate 18 g
+carbs_0486.png,Karbohidrat Total 11 g
+carbs_0487.png,Karbohidrat Total 13 g
+carbs_0488.png,Total Carbohydrate 10 g
+carbs_0489.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0490.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0491.png,Total Carbohydrate 28 g
+carbs_0492.png,Karbohidrat Total 11 g
+carbs_0493.png,Karbohidrat Total/Total Carbohydrate 18 g
+carbs_0494.png,Karbohidrat Total / Total Carbohydrate 14 g
+carbs_0495.png,Total Carbohydrate 7 g
+carbs_0496.png,Total Carbohydrate 7 g
+carbs_0497.png,Karbohidrat Total 8 g
+carbs_0498.png,Karbohidrat Total/Total Carbohydrate 10 g
+carbs_0499.png,Total Carbohydrate 26 g
+carbs_0501.png,Karbohidrat Total 69 g
+carbs_0502.png,Karbohidrat Total 8 g
+carbs_0503.png,Karbohidrat Total/Total Carbohydrate 8 g
+carbs_0504.png,Karbohidrat Total / Total Carbohydrate 9 g
+carbs_0505.png,Karbohidrat Total / Total Carbohydrate 4 g
+carbs_0506.png,Karbohidrat Total 24 g
+carbs_0507.png,Karbohidrat Total 8 g
+carbs_0508.png,Karbohidrat Total / Total Carbohydrate 22 g
+carbs_0509.png,Karbohidrat Total 19 g
+carbs_0510.png,Karbohidrat Total 5g
+carbs_0511.png,Karbohidrat Total 11 g
+carbs_0512.png,Karbohidrat Total 9 g
+carbs_0513.png,Karbohidrat Total 22 g
+carbs_0514.png,Karbohidrat Total 37 g
+carbs_0515.png,Total Carbohydrate 11 g
+carbs_0516.png,Total Carbohydrate 12 g
+carbs_0517.png,Karbohidrat Total 23 g
+carbs_0518.png,Karbohidrat Total 21 g
+carbs_0519.png,Karbohidrat Total 16 g
+carbs_0520.png,Karbohidrat Total/Total Carbohydrate 20 g
+carbs_0521.png,Karbohidrat Total/Total Carbohydrate 22 g
+carbs_0522.png,Karbohidrat Total/Total Carbohydrate 21 g
+carbs_0523.png,Karbohidrat Total 26 g
+carbs_0524.png,Total Carbohydrate 29 g
+carbs_0525.png,Karbohidrat Total 27 g
+carbs_0526.png,Total Carbohydrate 24 g
+carbs_0527.png,Total Carbohydrate 24 g
+carbs_0528.png,Total Carbohydrate 21 g
+carbs_0529.png,(Total Carbohydrate) 30 g
+carbs_0530.png,Total Carbohydrate 26 g
+carbs_0531.png,Karbohidrat Total 11 g
+carbs_0532.png,Karbohidrat Total 12 g
+carbs_0533.png,Karbohidrat Total / Total carbohydrate 27 g
+carbs_0534.png,Karbohidrat Total 26 g
+carbs_0535.png,Karbohidrat Total 20g
+carbs_0536.png,Karbohidrat Total 16g
+carbs_0537.png,Karbohidrat Total / Total carbohydrate 16 g
+carbs_0538.png,Karbohidrat Total / Total carbohydrate 16 g
+carbs_0539.png,Karbohidrat Total / Total carbohydrate 12 g
+carbs_0540.png,Karbohidrat Total 34 g
+carbs_0541.png,Karbohidrat Total / Total carbohydrate 12 g
+carbs_0542.png,Karbohidrat Total 8 g
+carbs_0543.png,Karbohidrat Total 21 g
+carbs_0544.png,Karbohidrat Total 27 g
+carbs_0545.png,Karbohidrat Total / Total Carbohydrate 23 g
+carbs_0546.png,Karbohidrat Total / Total Carbohydrate 27 g
+carbs_0547.png,Karbohidrat Total 14 g
+carbs_0548.png,Karbohidrat Total 1 g
+carbs_0549.png,Karbohidrat Total 1 g
+carbs_0550.png,Karbohidrat Total 11 g
+carbs_0551.png,Karbohidrat Total 11 g
+carbs_0552.png,Karbohidrat Total 11 g
+carbs_0553.png,Karbohidrat Total 1 g
+carbs_0554.png,Karbohidrat Total 21 g
+carbs_0555.png,Karbohidrat Total / Total carbohydrate 12 g
+carbs_0556.png,Total Carbohydrate 28 g
+carbs_0557.png,Karbohidrat Total 11 g
+carbs_0558.png,Karbohidrat Total 13 g
+carbs_0559.png,Karbohidrat Total 11 g
+carbs_0560.png,Karbohidrat Total 29 g
+carbs_0561.png,Karbohidrat Total 12 g
+carbs_0562.png,Karbohidrat Total/Total Carbohydrate 15 g
+carbs_0563.png,Karbohidrat Total 23 g
+carbs_0564.png,Karbohidrat Total 23 g
+carbs_0565.png,Karbohidrat Total 18 g
+carbs_0566.png,Karbohidrat Total 11 g
+carbs_0567.png,Karbohidrat Total 10 g
+carbs_0568.png,Karbohidrat Total 22 g
+carbs_0569.png,Karbohidrat Total 23 g
+carbs_0570.png,Karbohidrat Total / Total Carbohydrate 27 g
+carbs_0571.png,Karbohidrat Total / Total Carbohydrate 29 g
+carbs_0572.png,Karbohidrat Total / Total Carbohydrate 37g
+carbs_0573.png,Karbohidrat Total / Total Carbohydrate 44 g
+carbs_0574.png,Karbohidrat Total / Total Carbohydrate 26 g
+carbs_0575.png,Karbohidrat Total 3 g
+carbs_0576.png,Karbohidrat Total / Total Carbohydrate 29 g
+carbs_0577.png,Karbohidrat Total / Total Carbohydrate 30 g
+carbs_0578.png,Karbohidrat Total / Total Carbohydrate 30 g
+carbs_0579.png,Karbohidrat Total / Total Carbohydrate 43 g
+carbs_0580.png,Karbohidrat Total / Total Carbohydrate 43 g
+carbs_0581.png,Carbohydrate 24 g
+fat_0002.png,Total Fat 5.3 g 2.4 g
+fat_0003.png,Total Fat 5.3 g 2.4 g
+fat_0010.png,Lemak Total 0 g
+fat_0040.png,Lemak Total 1.5g
+fat_0041.png,Lemak Total 1g
+fat_0042.png,Lemak Total 1 g
+fat_0043.png,Lemak Total 1 g
+fat_0044.png,Lemak Total 1 g
+fat_0055.png,Lemak Total / Total Fat 3 g
+fat_0058.png,Lemak Total / Total Fat 2 g
+fat_0059.png,Lemak Total / Total Fat 2 g
+fat_0076.png,Lemak Total / Total Fat 3.5 g
+fat_0078.png,Lemak Total 1 g
+fat_0079.png,Lemak Total 6 g
+fat_0080.png,Lemak Total 2 g
+fat_0081.png,Lemak Total / Total Fat 4 g
+fat_0082.png,Lemak Total 6 g
+fat_0083.png,Lemak Total / Total Fat 11 g
+fat_0084.png,Lemak Total 5 g
+fat_0085.png,Lemak Total 0.5 g
+fat_0086.png,Lemak Total 0.5 g
+fat_0087.png,Lemak Total 12 g
+fat_0088.png,Lemak Total 3 g
+fat_0089.png,Lemak Total/ Total Fat 4 g
+fat_0090.png,Lemak Total 6 g
+fat_0091.png,Lemak Total 14 g
+fat_0092.png,Lemak Total 19 g
+fat_0093.png,Lemak Total/Total Fat 1 g
+fat_0094.png,Lemak Total 3.5 g
+fat_0095.png,Lemak Total / Total Fat 8g
+fat_0096.png,Lemak Total 5 g
+fat_0097.png,Lemak Total 12 g
+fat_0098.png,Lemak Total 5 g
+fat_0099.png,Lemak Total / Total Fat 18 g
+fat_0101.png,Lemak Total / Total Fat 18 g
+fat_0102.png,Lemak Total 3 g
+fat_0103.png,Lemak Total/Total Fat 13g
+fat_0104.png,Lemak Total 3 g
+fat_0105.png,Lemak Total 6 g
+fat_0106.png,Lemak Total 6 g
+fat_0107.png,Lemak Total/Total Fat 3.5 g
+fat_0108.png,Lemak Total 4.5 g
+fat_0109.png,Lemak Total / Total Fat 2 g
+fat_0110.png,Lemak Total 2.5 g
+fat_0111.png,Lemak Total / Total Fat 5 g
+fat_0112.png,Lemak Total / Total Fat 5 g
+fat_0113.png,Lemak Total 0 g
+fat_0114.png,Lemak Total / Total Fat 7 g
+fat_0115.png,Lemak Total / Total Fat 0 g
+fat_0116.png,Lemak Total / Total Fat 1 g
+fat_0117.png,Lemak Total / Total Fat 0 g
+fat_0118.png,Lemak Total 5 g
+fat_0119.png,Lemak Total 5 g
+fat_0120.png,Lemak Total 5 g
+fat_0121.png,Lemak Total 6 g
+fat_0122.png,Total Fat 4 g
+fat_0123.png,Lemak Total 5 g
+fat_0127.png,Lemak Total / Total Fat 5 g
+fat_0128.png,Lemak Total/Total Fat 3 g
+fat_0129.png,Lemak Total / Total Fat 10 g
+fat_0130.png,Lemak Total / Total Fat 5 g
+fat_0131.png,Lemak Total / Total Fat 10 g
+fat_0132.png,Lemak Total / Total Fat 10 g
+fat_0133.png,Lemak Total / Total Fat 10 g
+fat_0134.png,Lemak Total / Total Fat 10 g
+fat_0136.png,Total Fat 7g
+fat_0137.png,Total Fat 9g
+fat_0138.png,Lemak Total/Total Fat 7 g
+fat_0139.png,Lemak Total/Total Fat 8 g
+fat_0142.png,Lemak Total/Total Fat 3 g
+fat_0143.png,Lemak Total / Total Fat 4g
+fat_0144.png,Lemak Total/Total Fat 7g
+fat_0145.png,Lemak Total / Total Fat 10 g
+fat_0146.png,Lemak Total/Total Fat 4 g
+fat_0147.png,Lemak Total 10 g
+fat_0148.png,Lemak Total 4.5 g
+fat_0149.png,Lemak Total (Total Fat) 3.5g
+fat_0150.png,Lemak Total / Total Fat 6 g
+fat_0151.png,Lemak Total / Total Fat 7 g
+fat_0152.png,Lemak Total / Total Fat 6 g
+fat_0153.png,Lemak Total / Total Fat 0 g
+fat_0154.png,Lemak Total / Total Fat 5 g
+fat_0156.png,Lemak Total/Total Fat 3.5 g
+fat_0157.png,Lemak Total/Total Fat 4.5 g
+fat_0158.png,Lemak Total/Total Fat 7g
+fat_0159.png,Lemak Total 7 g
+fat_0160.png,Lemak Total 6 g
+fat_0161.png,Lemak Total 5 g
+fat_0162.png,Lemak Total / Total Fat 7 g
+fat_0163.png,Lemak Total / Total Fat 4 g
+fat_0164.png,Lemak Total / Total Fat 4 g
+fat_0165.png,Lemak Total 4.0 g
+fat_0166.png,Lemak Total 4 g
+fat_0167.png,Lemak Total 4.5 g
+fat_0168.png,Lemak Total / Total Fat 4 g
+fat_0169.png,Lemak Total / Total Fat 3.5 g
+fat_0170.png,Lemak Total/Total Fat 3 g
+fat_0171.png,Lemak Total / Total Fat 3
+fat_0172.png,Lemak Total 2.5 g
+fat_0173.png,Lemak Total 6 g
+fat_0174.png,Lemak Total / Total Fat 3 g
+fat_0175.png,Lemak Total / Total Fat 3 g
+fat_0176.png,Lemak Total / Total Fat 5 g
+fat_0177.png,Lemak Total / Total Fat 2.5 g
+fat_0178.png,Lemak Total 2.5 g
+fat_0179.png,Lemak Total 2.5 g
+fat_0180.png,Lemak Total/Total Fat 3 g
+fat_0181.png,Lemak Total 4 g
+fat_0182.png,Lemak Total/Total Fat 4 g
+fat_0183.png,Lemak Total 4 g
+fat_0184.png,Lemak Total (Total Fat) 6 g
+fat_0185.png,Lemak Total/Total Fat 0 g
+fat_0186.png,Total Fat/LemakTotal 1.5 g
+fat_0187.png,Lemak Total (Total Fat) 2.5 g
+fat_0188.png,Lemak Total / Total Fat 3.5 g
+fat_0189.png,Lemak Total/Total Fat 3.5 g
+fat_0190.png,Lemak Total / Total Fat 2.5 g
+fat_0191.png,Lemak Total 3 g
+fat_0192.png,Lemak Total 0 g
+fat_0193.png,Lemak Total/ Total Fat 2.5 g
+fat_0194.png,Lemak Total 5 g
+fat_0195.png,Lemak Total 5 g
+fat_0196.png,Lemak Total / Total Fat 1 g
+fat_0197.png,Lemak Total 2 g
+fat_0198.png,Lemak Total / Total Fat 5 g
+fat_0199.png,Lemak Total / Total Fat 4.5g
+fat_0200.png,Lemak Total / Total Fat 10 g
+fat_0201.png,Lemak Total / Total Fat 6 g
+fat_0202.png,Lemak Total 10g
+fat_0203.png,Lemak Total/ Total Fat 0 g
+fat_0204.png,Lemak Total 2.5 g
+fat_0205.png,Lemak Total 4.0 g
+fat_0206.png,Lemak Total 2.5 g
+fat_0207.png,Lemak Total 1 g
+fat_0208.png,Lemak Total / Total Fat 5 g
+fat_0209.png,Lemak Total/Total Fat 5 g
+fat_0210.png,Lemak Total / Total Fat 7 g
+fat_0211.png,Lemak Total / Total Fat 7 g
+fat_0212.png,Lemak Total / Total Fat 7 g
+fat_0213.png,Lemak Total / Total Fat 7 g
+fat_0214.png,Lemak Total 5 g
+fat_0215.png,Lemak Total / Total Fat 3 g
+fat_0216.png,Lemak Total / Total Fat 3 g
+fat_0217.png,Lemak Total 0 g
+fat_0218.png,Lemak Total 7 g
+fat_0219.png,Lemak Total 6 g
+fat_0220.png,Lemak Total 2.5 g
+fat_0221.png,Lemak Total 6 g
+fat_0222.png,Lemak Total 6 g
+fat_0223.png,Lemak Total 5 g
+fat_0224.png,Lemak Total 8 g
+fat_0225.png,Lemak Total 8 g
+fat_0226.png,Lemak Total 8 g
+fat_0227.png,Lemak Total / Total Fat 4.5 g
+fat_0228.png,Lemak Total 3.5 g
+fat_0229.png,Lemak Total 7 g
+fat_0230.png,Lemak Total 2 g
+fat_0231.png,Lemak Total/Total Fat 0 g
+fat_0232.png,Lemak Total / Total Fat 3.5 g
+fat_0233.png,Lemak Total / Total Fat 3.5 g
+fat_0234.png,Lemak Total / Total Fat 8 g
+fat_0235.png,Lemak Total 7 g
+fat_0236.png,Lemak Total / Total Fat 5 g
+fat_0237.png,Lemak Total 6 g
+fat_0238.png,Lemak Total 4.5g
+fat_0239.png,Lemak Total/Total Fat 5 g
+fat_0240.png,Lemak Total/Total Fat 2 g
+fat_0241.png,Lemak Total/Total Fat 2 g
+fat_0242.png,Lemak Total/Total Fat 3 g
+fat_0243.png,Lemak Total / Total Fat 5 g
+fat_0244.png,Lemak Total / Total Fat 0.5 g
+fat_0245.png,Lemak Total / Total Fat 0.5 g
+fat_0246.png,Lemak Total / Total Fat 10 g
+fat_0247.png,Lemak Total 10 g
+fat_0248.png,Lemak Total 4.0 g
+fat_0249.png,Lemak Total (Total Fat) 0 g
+fat_0250.png,Lemak Total/Total Fat 0 g
+fat_0251.png,Lemak Total / Total Fat 0 g
+fat_0252.png,Lemak Total / Total Fat 0 g
+fat_0253.png,Lemak Total / Total Fat 0 g
+fat_0254.png,Lemak Total 0 g
+fat_0255.png,Lemak Total 0g
+fat_0256.png,Lemak Total 0 g
+fat_0258.png,Lemak Total 3.5 g
+fat_0259.png,Lemak Total 4 g
+fat_0260.png,Lemak Total 6 g
+fat_0261.png,Lemak Total 0 g
+fat_0262.png,Lemak Total 0 g
+fat_0264.png,Lemak Total 2 g
+fat_0265.png,Lemak Total 2.5 g
+fat_0272.png,Lemak Total 2.5 g
+fat_0273.png,Total Fat / Lemak Total 2.0 g
+fat_0274.png,Total Fat / Lemak Total 2g
+fat_0275.png,Total Fat / Lemak Total 1 g
+fat_0276.png,Lemak Total 0.5 g
+fat_0277.png,Lemak Total / Total Fat 1 g
+fat_0278.png,Lemak Total 5 g
+fat_0279.png,Lemak Total 0g
+fat_0280.png,Lemak Total / Total Fat 8 g
+fat_0281.png,Lemak Total / Total Fat 2 g
+fat_0282.png,Lemak Total / Total Fat 6 g
+fat_0283.png,Lemak Total / Total Fat 3 g
+fat_0284.png,Lemak Total 3 g
+fat_0285.png,Lemak Total 6 g
+fat_0286.png,Lemak Total/ Total Fat 3 g
+fat_0287.png,Lemak Total / Total Fat 0.5 g
+fat_0288.png,Lemak Total 6 g
+fat_0289.png,Lemak Total / Total Fat 3 g
+fat_0290.png,Lemak Total / Total Fat 2.5 g
+fat_0291.png,Lemak Total 6 g
+fat_0292.png,Lemak Total/Total Fat 3 g
+fat_0294.png,Lemak Total/Total Fat 5 g
+fat_0295.png,Lemak Total / Total Fat 1 g
+fat_0296.png,Lemak Total/ Total Fat 1 g
+fat_0297.png,Lemak Total/ Total Fat 1 g
+fat_0298.png,Lemak Total/ Total Fat 3.5 g
+fat_0299.png,Lemak Total 3 g
+fat_0301.png,Lemak Total / Total Fat 6 g
+fat_0302.png,Lemak Total 4 g
+fat_0303.png,Lemak Total / Total Fat 7 g
+fat_0304.png,Lemak Total / Total Fat 2.5 g
+fat_0305.png,Lemak Total/Total fat 8 g
+fat_0306.png,Lemak Total/Total fat 3.5 g
+fat_0307.png,Lemak Total / Total Fat 2.5 g
+fat_0308.png,Lemak Total (Total FAT) 10 g
+fat_0309.png,Lemak Total / Total Fat 4 g
+fat_0310.png,Lemak Total (Total Fat) 2.5 g
+fat_0311.png,Lemak Total (Total Fat) 3.5 g
+fat_0312.png,Lemak Total 1 g
+fat_0313.png,Lemak Total 1 g
+fat_0314.png,Lemak Total 0.5 g
+fat_0315.png,Lemak Total / Total Fat 10 g
+fat_0316.png,Lemak Total / Total Fat 9 g
+fat_0317.png,Lemak Total 10 g
+fat_0318.png,Lemak Total / Total Fat 5 g
+fat_0319.png,Lemak Total 4.0 g
+fat_0320.png,Lemak Total 5.0g
+fat_0321.png,Lemak Total / Total Fat 4.5 g
+fat_0322.png,Lemak Total / Total Fat 5 g
+fat_0323.png,Lemak Total (Total Fat) 3.5 g
+fat_0324.png,Lemak Total / Total Fat 5 g
+fat_0325.png,Lemak Total / Total Fat 4.5 g
+fat_0326.png,Lemak Total 6 g
+fat_0327.png,Lemak Total/ Total Fat 2.5 g
+fat_0328.png,Lemak total / Total fat 2.5 g
+fat_0329.png,Total Fat / Jumlah Lemak 6 g
+fat_0330.png,Lemak Total 7 g
+fat_0331.png,Lemak Total / Total Fat 5 g
+fat_0332.png,Lemak Total 4 g
+fat_0333.png,Lemak Total 4.5 g
+fat_0334.png,Lemak Total / Total Fat 7 g
+fat_0335.png,Lemak Total 13 g
+fat_0336.png,Lemak Total 0 g
+fat_0337.png,Lemak Total 6 g
+fat_0338.png,Lemak Total 7 g
+fat_0339.png,Lemak Total 6 g
+fat_0341.png,Lemak Total 7 g
+fat_0342.png,Lemak Total/Total Fat 3 g
+fat_0343.png,Lemak Total/Total Fat 3 g
+fat_0344.png,Lemak Total 7 g
+fat_0345.png,Lemak Total 8 g
+fat_0346.png,Lemak Total / Total Fat 8 g
+fat_0347.png,Lemak Total 1 g
+fat_0348.png,Lemak Total 1 g
+fat_0349.png,Lemak Total 2.5 g
+fat_0350.png,Lemak Total / Total Fat 3 g
+fat_0351.png,Lemak Total / Total Fat 5 g
+fat_0352.png,Lemak Total / Total Fat 19 g
+fat_0353.png,Lemak Total / Total Fat 5 g
+fat_0354.png,Lemak Total / Total Fat 5 g
+fat_0355.png,Lemak Total 1.5 g
+fat_0356.png,Lemak Total 5 g
+fat_0357.png,Lemak Total 8 g
+fat_0358.png,Lemak Total / Total Fat 2 g
+fat_0359.png,Lemak Total 9 g
+fat_0360.png,Lemak Total 0 g
+fat_0361.png,Lemak Total / Total Fat 0.5 g
+fat_0362.png,Lemak Total / Total Fat 1.5 g
+fat_0363.png,Lemak total 6 g
+fat_0364.png,Lemak Total 6 g
+fat_0365.png,Lemak Total 9 g
+fat_0366.png,Lemak Total 13 g
+fat_0367.png,Lemak Total 9 g
+fat_0368.png,Lemak Total 7 g
+fat_0369.png,Lemak Total 0.5 g
+fat_0370.png,Lemak Total/Total Fat 7 g
+fat_0371.png,Lemak Total/Total Fat 7 g
+fat_0372.png,Lemak Total / Total Fat 8 g
+fat_0373.png,Lemak Total / Total Fat 17 g
+fat_0374.png,Lemak Total/Total Fat 7 g
+fat_0375.png,Lemak Total/Total Fat 8 g
+fat_0376.png,Lemak Total/Total Fat 8 g
+fat_0377.png,Lemak Total/Total Fat 8 g
+fat_0378.png,Lemak Total / Total Fat 6 g
+fat_0379.png,Lemak Total 3 g
+fat_0380.png,Lemak Total 2.5 g
+fat_0381.png,Lemak Total 7 g
+fat_0382.png,LEMAK (TOTAL FAT) 11 g
+fat_0383.png,Lemak Total / Total Fat 14 g
+fat_0385.png,Lemak Total 12 g
+fat_0386.png,Lemak Total/Total Fat 17 g
+fat_0387.png,Lemak Total 8 g
+fat_0388.png,Lemak Total 4g
+fat_0389.png,Lemak Total 14.0g
+fat_0390.png,Lemak Total 4.5g
+fat_0391.png,Lemak Total/ Total Fat 8 g
+fat_0392.png,Lemak Total / Total Fat 3 g
+fat_0393.png,Lemak Total / Total Fat 9 g
+fat_0394.png,Lemak Total/Total Fat 2 g
+fat_0395.png,Lemak Total/Total Fat 2.5 g
+fat_0396.png,Lemak Total/Total Fat 8g
+fat_0397.png,Lemak Total/Total Fat 11 g
+fat_0398.png,Lemak Total 3.50 g
+fat_0399.png,Lemak Total/Total Fat 3.5 g
+fat_0400.png,Lemak Total 10 g
+fat_0401.png,Lemak Total 4.5 g
+fat_0402.png,Lemak Total 8 g
+fat_0403.png,Lemak Total 12 g
+fat_0404.png,Lemak Total 8 g
+fat_0405.png,Lemak Total 4g
+fat_0406.png,Lemak Total / Total Fat 11 g
+fat_0407.png,Lemak Total/ Total Fat 4 g
+fat_0408.png,Lemak Total/ Total Fat 2.5 g
+fat_0409.png,Lemak Total/Total Fat 5 g
+fat_0410.png,Lemak Total 10 g
+fat_0411.png,Lemak Total / Total Fat 6 g
+fat_0412.png,Lemak Total / Total Fat 5 g
+fat_0413.png,Lemak Total 15 g
+fat_0414.png,Lemak Total 8 g
+fat_0415.png,Lemak Total / Total fat 6 g
+fat_0416.png,Lemak Total 2.5 g
+fat_0417.png,Lemak Total/Total Fat 0 g
+fat_0418.png,Lemak Total / Total Fat 4 g
+fat_0419.png,Lemak Total 16 g
+fat_0420.png,Lemak Total 1.5 g
+fat_0421.png,Lemak Total / Total Fat 2.5 g
+fat_0422.png,Lemak Total 14 g
+fat_0423.png,Lemak Total 0 g
+fat_0424.png,Lemak Total 8 g
+fat_0425.png,Lemak Total / Total Fat 4 g
+fat_0426.png,Lemak Total 11 g
+fat_0427.png,Lemak Total 0 g
+fat_0428.png,Lemak Total 9 g
+fat_0429.png,Lemak Total 9 g
+fat_0430.png,Lemak Total / Total Fat 3.5 g
+fat_0431.png,Lemak Tota 2.5 g
+fat_0432.png,Lemak Total 6 g
+fat_0433.png,Lemak Total 6 g
+fat_0434.png,Lemak Total/Total Fat 2 g
+fat_0435.png,Lemak Total 0 g
+fat_0436.png,Lemak Total / Total Fat 0 g
+fat_0437.png,Lemak Total/Total Fat 0 g
+fat_0438.png,Lemak Total / Total fat 0 g
+fat_0439.png,Lemak Total/ Total Fat 0 g
+fat_0440.png,Lemak Total/Total Fat 0g
+fat_0441.png,Lemak Total/Total Fat 0g
+fat_0442.png,Lemak Total/Total Fat 0g
+fat_0443.png,Lemak Total 0 g
+fat_0444.png,Lemak Total 0 g
+fat_0445.png,Lemak Total 0 g
+fat_0446.png,Lemak Total 0 g
+fat_0447.png,Lemak Total 0 g
+fat_0448.png,Lemak Total 0 g
+fat_0449.png,Lemak Total 0 g
+fat_0450.png,Lemak Total 0 g
+fat_0451.png,Lemak Total 0 g
+fat_0452.png,Lemak Total 0 g
+fat_0453.png,Lemak Total 0 g
+fat_0454.png,Lemak Total 0 g
+fat_0455.png,Lemak Total 0 g
+fat_0456.png,Lemak Total 0 g
+fat_0457.png,Lemak Total 0 g
+fat_0458.png,Lemak Total 0 g
+fat_0459.png,Lemak Total 0 g
+fat_0460.png,Lemak Total 0 g
+fat_0461.png,Lemak Total 0 g
+fat_0462.png,Lemak Total 0 g
+fat_0463.png,Lemak Total 0 g
+fat_0464.png,Lemak Total 0 g
+fat_0465.png,Lemak Total 0 g
+fat_0466.png,Lemak Total 1.5 g
+fat_0467.png,Lemak Total 2 g
+fat_0468.png,Lemak Total 2 g
+fat_0469.png,Lemak Total 1.5 g
+fat_0470.png,Lemak Total 0 g
+fat_0471.png,Lemak Total 0 g
+fat_0472.png,Lemak Total 3 g
+fat_0473.png,Lemak Total 0 g
+fat_0474.png,Total Fat/Lemak Total 0 g
+fat_0475.png,Lemak Total 0 g
+fat_0476.png,Total Fat/Lemak Total 0 g
+fat_0477.png,Lemak Total/Total Fat 0 g
+fat_0478.png,Lemak Total/Total Fat 0 g
+fat_0479.png,Lemak Total 0 g
+fat_0480.png,Lemak Total/Total Fat 0 g
+fat_0481.png,Lemak Total/ Total Fat 0 g
+fat_0482.png,Lemak Total/ Total Fat 0 g
+fat_0483.png,Lemak Total/ Total Fat 0 g
+fat_0484.png,Lemak Total/Total Fat 0 g
+fat_0485.png,Lemak Total 1.5 g
+fat_0486.png,Lemak Total 0 g
+fat_0487.png,Lemak Total / Total Fat 8 g
+fat_0488.png,Lemak Total/Total Fat 5 g
+fat_0489.png,Lemak Total/ Total Fat 2.5 g
+fat_0490.png,Lemak Total/Total Fat 5 g
+fat_0491.png,Lemak Total / Total Fat 2.5 g
+fat_0492.png,Lemak Total 7 g
+fat_0493.png,Lemak Total 5 g
+fat_0494.png,Lemak Total/ Total Fat 2 g
+fat_0495.png,Lemak Total / Total Fat 3 g
+fat_0496.png,Lemak Total / Total Fat 3 g
+fat_0497.png,Lemak Total / Total Fat 12 g
+fat_0498.png,Lemak Total 6 g
+fat_0499.png,Lemak Total/Total Fat 3 g
+fat_0500.png,Lemak Total 0 g
+fat_0501.png,Lemak Total 5 g
+fat_0502.png,Lemak Total / Total Fat 4 g
+fat_0503.png,Lemak Total/ Total Fat 2 g
+fat_0504.png,Lemak Total/ Total Fat 2 g
+fat_0505.png,Lemak Total 6 g
+fat_0506.png,Lemak Total/Total Fat 3.5 g
+fat_0507.png,Lemak Total / Total Fat 11 g
+fat_0509.png,Lemak Total / Total Fat 6 g
+fat_0510.png,Lemak Total 4.5 g
+fat_0511.png,Lemak Total/Total Fat 9 g
+fat_0512.png,Lemak Total/Total Fat 8 g
+fat_0513.png,Lemak Total / Total Fat 12 g
+fat_0514.png,Lemak Total (Total Fat) 4 g
+fat_0515.png,Lemak total 0 g
+fat_0516.png,Lemak Total / Total Fat 3.5 g
+fat_0517.png,Lemak Total 3 g
+fat_0518.png,Lemak Total 0 g
+fat_0519.png,Lemak Total 6 g
+fat_0520.png,Lemak Total 4.5 g
+fat_0521.png,Lemak Total 0 g
+fat_0522.png,Lemak Total 0 g
+fat_0523.png,Lemak Total/ Total Fat 0 g
+fat_0524.png,Lemak Total/ Total Fat 0 g
+fat_0525.png,Lemak Total 0 g
+fat_0526.png,Lemak Total 0 g
+fat_0527.png,Lemak Total 0 g
+fat_0528.png,Lemak Total/Total Fat 2 g
+fat_0529.png,Lemak Total/Total Fat 2.5 g
+fat_0530.png,Lemak Total/Total Fat 0 g
+fat_0531.png,Lemak Total 2 g
+fat_0532.png,Lemak Total / Total Fat 3.5 g
+fat_0533.png,Lemak Total 2 g
+fat_0534.png,Lemak Total / Total Fat 5 g
+fat_0535.png,Lemak Total / Total Fat 5 g
+fat_0536.png,Lemak Total / Total Fat 5 g
+fat_0537.png,Lemak Total (Total Fat) 4.5 g
+fat_0538.png,Lemak Total / Total Fat 4.5 g
+fat_0539.png,Lemak Total 2.5 g
+fat_0540.png,Lemak Total 0 g
+fat_0541.png,Lemak Total / Total Fat 0 g
+fat_0542.png,Lemak Total 0 g
+fat_0544.png,Lemak Total 0 g
+fat_0545.png,Lemak Total 0 g
+fat_0546.png,Lemak Total 0 g
+fat_0547.png,Lemak Total / Total fat 0 g
+fat_0548.png,Lemak Total / Total fat 0 g
+fat_0549.png,Lemak Total / Total fat 0 g
+fat_0550.png,Lemak Total 0 g
+fat_0551.png,Lemak Total / Total fat 0 g
+fat_0552.png,Lemak Total 0 g
+fat_0553.png,Lemak Total 0 g
+fat_0554.png,Lemak Total 0 g
+fat_0555.png,Lemak Total / Total Fat 0 g
+fat_0556.png,Lemak Total / Total Fat 0 g
+fat_0557.png,Lemak Total 0 g
+fat_0558.png,Lemak Total 0 g
+fat_0559.png,Lemak Total 0 g
+fat_0560.png,Lemak Total 1 g
+fat_0561.png,Lemak Total 1 g
+fat_0562.png,Lemak Total 1.5 g
+fat_0563.png,Lemak Total 0 g
+fat_0564.png,Lemak Total 2.5 g
+fat_0565.png,Lemak Total / Total fat 0 g
+fat_0566.png,Lemak Total / Total Fat 5 g
+fat_0567.png,Lemak Total 0 g
+fat_0568.png,Total Fat/Lemak Total 0 g
+fat_0569.png,Lemak Total 1.5 g
+fat_0570.png,Lemak Total 0 g
+fat_0571.png,Lemak Total 0 g
+fat_0572.png,Lemak Total / Total Fat 1.5 g
+fat_0573.png,Lemak Total 1 g
+fat_0574.png,Lemak Total 1 g
+fat_0575.png,Lemak Total 1.5 g
+fat_0576.png,Lemak Total 1.5 g
+fat_0577.png,Lemak Total 2.5 g
+fat_0578.png,Lemak Total 1.5 g
+fat_0579.png,Lemak Total 0.5 g
+fat_0580.png,Lemak Total / Total Fat 0 g
+fat_0581.png,Lemak Total / Total Fat 0 g
+fat_0582.png,Lemak Total / Total Fat 0 g
+fat_0583.png,Lemak Total/ Total Fat 0 g
+fat_0584.png,Lemak Total / Total Fat 0 g
+fat_0585.png,Lemak Total 0 g
+fat_0586.png,Lemak Total / Total Fat 0 g
+fat_0587.png,Lemak Total / Total Fat 0 g
+fat_0588.png,Lemak Total / Total Fat 0 g
+fat_0589.png,Lemak Total / Total Fat 0 g
+fat_0590.png,Lemak Total / Total Fat 0 g
+fat_0591.png,Lemak Total/Total Fat 2 g
+sodium_0010.png,Garam (Natrium) 40 mg
+sodium_0040.png,Garam (Natrium) 30 mg
+sodium_0041.png,Garam (Natrium) 35 mg
+sodium_0044.png,Garam (Natrium) 90 mg
+sodium_0055.png,Garam (Natrium) / Sodium 75 mg
+sodium_0060.png,Garam (Natrium) / Sodium 50 mg
+sodium_0076.png,Garam (Natrium) / Sodium 90 mg
+sodium_0078.png,Garam (Natrium) 35 mg
+sodium_0079.png,Garam (Natrium) 115 mg
+sodium_0080.png,Natrium 90 mg
+sodium_0081.png,Garam (Natrium) / Salt (Sodium) 75 mg
+sodium_0082.png,Garam (Natrium) 115 mg
+sodium_0083.png,Garam (Natrium) / Sodium 260 mg
+sodium_0084.png,Garam (Natrium) 35 mg
+sodium_0086.png,Garam (natrium) 25 mg
+sodium_0087.png,Garam (Natrium) / Salt (Sodium) 95 mg
+sodium_0088.png,Garam (Natrium) 25 mg
+sodium_0089.png,Salt (Sodium) 30 mg
+sodium_0090.png,Garam (Natrium) 80 mg
+sodium_0091.png,Garam (Natrium) 90 mg
+sodium_0093.png,Garam (Natrium) 490 mg
+sodium_0095.png,Garam (Natrium) / Salt (Sodium) 730 mg
+sodium_0096.png,Garam (Natrium) 60 mg
+sodium_0097.png,Garam (Natrium) 60 mg
+sodium_0098.png,Natrium / Sodium 670 mg
+sodium_0099.png,Natrium / Sodium 25 mg
+sodium_0100.png,Natrium / Sodium 670 mg
+sodium_0101.png,Garam (Natrium) 50 mg
+sodium_0102.png,Garam(Natrium)/Salt (Sodium) 135mg
+sodium_0103.png,Garam (Natrium) 90 mg
+sodium_0104.png,Garam (Natrium) 115 mg
+sodium_0105.png,Garam (Natrium) 95 mg
+sodium_0106.png,Garam(Natrium)/Salt(Sodium) 85mg
+sodium_0107.png,Garam (Natrium) 75 mg
+sodium_0108.png,Garam (Natrium) / Sodium 30 mg
+sodium_0109.png,Garam (Natrium) / Salt (Sodium) 130 mg
+sodium_0110.png,Natrium / Sodium 55 mg
+sodium_0111.png,Natrium / Sodium 55 mg
+sodium_0113.png,Garam (Natrium) 0 mg
+sodium_0114.png,Garam (Natrium)/Salt (Sodium) 65 mg
+sodium_0115.png,Garam (Natrium) / Salt (Sodium) 0mg
+sodium_0116.png,Garam (Natrium) / Salt (Sodium) 20 mg
+sodium_0117.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0118.png,Garam (Natrium) 35 mg
+sodium_0120.png,Garam (Natrium) 45 mg
+sodium_0121.png,Garam (Natrium) 50 mg
+sodium_0122.png,Salt (Sodium) 105 mg
+sodium_0123.png,Garam (Natrium) 95 mg
+sodium_0127.png,Garam (Natrium) / Salt (Sodium) 90 mg
+sodium_0128.png,Garam (Natrium)/Sodium 40 mg
+sodium_0129.png,Sodium 85 mg
+sodium_0130.png,Salt (Sodium) 230 mg
+sodium_0131.png,Salt (Sodium) 45 mg
+sodium_0132.png,Salt (Sodium) 45 mg
+sodium_0133.png,Garam (Natrium) / Sodium 85 mg
+sodium_0134.png,Garam (Natrium) / Sodium 90 mg
+sodium_0135.png,Garam (Natrium) / Sodium 120 mg
+sodium_0136.png,Sodium 100 mg
+sodium_0137.png,Sodium 105 mg
+sodium_0138.png,Garam (Natrium)/Salt (Sodium) 40 mg
+sodium_0139.png,Garam (Natrium)/Salt (Sodium) 35 mg
+sodium_0142.png,Salt (Sodium) 135 mg
+sodium_0143.png,Salt (Sodium) 30 mg
+sodium_0144.png,Salt (Sodium) 95 mg
+sodium_0145.png,Garam (Natrium) / Salt (Sodium) 120 mg
+sodium_0146.png,Garam (Natrium)/Sodium 100 mg
+sodium_0147.png,Garam (Natrium) 70 mg
+sodium_0148.png,Garam (Natrium) 80 mg
+sodium_0149.png,Garam (Natrium) / Sodium 55mg
+sodium_0150.png,Garam (Natrium) / Salt (Sodium) 40 mg
+sodium_0151.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0152.png,Garam (Natrium) / Salt (Sodium) 65 mg
+sodium_0153.png,Garam (Natrium) / Salt (Sodium) 125 mg
+sodium_0154.png,Garam (Natrium) / Sodium 200 mg
+sodium_0156.png,Garam (Natrium)/Salt (Sodium) 75 mg
+sodium_0157.png,Garam (Natrium)/Salt (Sodium) 400 mg
+sodium_0158.png,Salt (Sodium) 130 mg
+sodium_0159.png,Garam (Natrium) 110 mg
+sodium_0160.png,Garam (Natrium) 75 mg
+sodium_0161.png,Garam (Natrium) 100 mg
+sodium_0162.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0163.png,Garam (Natrium) / Salt (Sodium) 110 mg
+sodium_0164.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0165.png,Garam (Natrium) 40 mg
+sodium_0166.png,Garam (Natrium) 15 mg
+sodium_0167.png,Garam (Natrium) 55 mg
+sodium_0168.png,Garam (Natrium) / Salt (Sodium) 80 mg
+sodium_0169.png,Garam (Natrium) / Salt (Sodium) 85 mg
+sodium_0170.png,Garam (Natrium) / Salt (Sodium) 170 mg
+sodium_0171.png,Garam (Natrium)/Salt (Sodium) 65 mg
+sodium_0172.png,Garam (Natrium) 55 mg
+sodium_0173.png,Garam (Natrium) 10 mg
+sodium_0174.png,Garam (Natrium) / Sodium 100 mg
+sodium_0175.png,Garam (Natrium) / Sodium 100 mg
+sodium_0176.png,Garam (Natrium) / Sodium 20 mg
+sodium_0177.png,Garam (Natrium) / Salt (Sodium) 15 mg
+sodium_0178.png,Garam (Natrium) 10 mg
+sodium_0179.png,Garam (Natrium) 20 mg
+sodium_0180.png,Garam (Natrium)/Salt (Sodium) 20 mg
+sodium_0181.png,Garam (Natrium) 45 mg
+sodium_0182.png,Garam (Natrium)/Salt (Sodium) 100 mg
+sodium_0183.png,Garam (Natrium) 125 mg
+sodium_0184.png,Garam (Salt) / Natrium (Sodium) 90 mg
+sodium_0185.png,Garam (Natrium) / Salt (Sodium) 25 mg
+sodium_0186.png,Garam (Natrium) 75 mg
+sodium_0187.png,Garam (Natrium) 95 mg
+sodium_0188.png,Garam (Natrium) 20 mg
+sodium_0189.png,Garam (Natrium)/Salt (Sodium) 150 mg
+sodium_0190.png,Garam (Natrium) / Salt (Sodium) 100 mg
+sodium_0191.png,Garam (Natrium) 160 mg
+sodium_0192.png,Garam (Natrium) 0 mg
+sodium_0193.png,Salt (Sodium) 65 mg
+sodium_0194.png,Garam (Natrium) 55 mg
+sodium_0195.png,Garam (Natrium) 25 mg
+sodium_0196.png,Garam (Natrium) / Salt (Sodium) 10 mg
+sodium_0197.png,Garam (Natrium) / Salt (Sodium) 60 mg
+sodium_0198.png,Garam (Natrium) / Salt (Sodium) 150 mg
+sodium_0199.png,Salt (Sodium) 30 mg
+sodium_0200.png,Garam (Natrium) / Salt (Sodium) 120 mg
+sodium_0201.png,Garam (Natrium) / Salt (Sodium) 65 mg
+sodium_0202.png,Garam (Natrium) 105mg
+sodium_0203.png,Garam (Natrium)/ Sodium 0 mg
+sodium_0204.png,Garam (Natrium) 10 mg
+sodium_0205.png,Garam (Natrium) 40 mg
+sodium_0206.png,Garam (Natrium) 35 mg
+sodium_0207.png,Garam (Natrium) 35 mg
+sodium_0208.png,Garam (Natrium) / Sodium 200 mg
+sodium_0209.png,Garam (Natrium)/Salt (Sodium) 25 mg
+sodium_0210.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0211.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0212.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0213.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0214.png,Garam (Natrium) 100 mg
+sodium_0215.png,Garam (Natrium) / Sodium 100 mg
+sodium_0216.png,Garam (Natrium) / Sodium 100 mg
+sodium_0217.png,Garam (Natrium) 5 mg
+sodium_0218.png,Garam (Natrium) 95 mg
+sodium_0219.png,Garam (Natrium) 85 mg
+sodium_0220.png,Garam (Natrium) 100 mg
+sodium_0221.png,Garam (Natrium) 110 mg
+sodium_0222.png,Garam (Natrium) 70 mg
+sodium_0223.png,Salt (Sodium) 85 mg
+sodium_0224.png,Garam (natrium) 80 mg
+sodium_0225.png,Garam (natrium) 100 mg
+sodium_0226.png,Garam (natrium) 100 mg
+sodium_0227.png,Garam (Natrium) / Salt (Sodium) 210 mg
+sodium_0228.png,Garam (Natrium) 65 mg
+sodium_0229.png,Garam (Natrium) 65 mg
+sodium_0230.png,Garam (Natrium) 25 mg
+sodium_0231.png,Garam(Natrium)/Salt(Sodium) 25 mg
+sodium_0232.png,Garam (natrium) / Salt (sodium) 80 mg
+sodium_0233.png,Garam (natrium) / Salt (sodium) 80 mg
+sodium_0234.png,Garam (Natrium) / Salt (Sodium) 190 mg
+sodium_0235.png,Garam (Natrium) 125 mg
+sodium_0236.png,Natrium) / Sodium 55 mg
+sodium_0237.png,Garam (Natrium) 75 mg
+sodium_0238.png,Garam (Natrium) 75 mg
+sodium_0239.png,Garam (Natrium)/Salt (Sodium) 210 mg
+sodium_0240.png,Garam (Natrium)/Salt (Sodium) 220 mg
+sodium_0242.png,Garam (Natrium) / Salt (Sodium) 170 mg
+sodium_0243.png,Garam (natrium) / Salt (sodium) 550 mg
+sodium_0244.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0245.png,Garam (Natrium) / Salt (Sodium) 85 mg
+sodium_0246.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0247.png,Salt (Sodium) 45 mg
+sodium_0248.png,Garam (natrium) 90 mg
+sodium_0249.png,Garam (Natrium) 60 mg
+sodium_0250.png,Garam (Natrium)(Sodium) 100 mg
+sodium_0251.png,Garam (Natrium) / Salt (Sodium) 20 mg
+sodium_0252.png,Garam (Natrium) / Salt (Sodium) 30 mg
+sodium_0253.png,Garam (Natrium) / Salt (Sodium) 25 mg
+sodium_0254.png,Garam (Natrium)/ Salt (Sodium) 55 mg
+sodium_0255.png,Garam (Natrium) 50 mg
+sodium_0256.png,Garam (Natrium) 75 mg
+sodium_0257.png,Natrium 60 mg
+sodium_0259.png,Garam (Natrium) 105 mg
+sodium_0260.png,Garam (natrium) 60 mg
+sodium_0261.png,Garam (Natrium) 200 mg
+sodium_0262.png,Sodium 5 mg
+sodium_0263.png,Garam (Natrium) 5mg
+sodium_0265.png,Garam (Natrium) 125 mg
+sodium_0266.png,Garam (Natrium) 150 mg
+sodium_0273.png,Garam (Natrium) 150 mg
+sodium_0274.png,Salt (Sodium) / Garam (Natrium) 10 mg
+sodium_0275.png,Garam (Natrium) / Salt (Sodium) 10 mg
+sodium_0276.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0277.png,Garam (natrium) 25 mg
+sodium_0278.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0279.png,Garam (Natrium) 75 mg
+sodium_0280.png,Garam (Natrium) 55 mg
+sodium_0281.png,Garam (Natrium) / Salt (Sodium) 85mg
+sodium_0282.png,Garam (Natrium) / Sodium 25 mg
+sodium_0283.png,Garam (Natrium) / Sodium 25 mg
+sodium_0284.png,Garam (Natrium) / Sodium 100 mg
+sodium_0285.png,Garam (Natrium) 25 mg
+sodium_0286.png,Garam (Natrium) 120 mg
+sodium_0287.png,Salt (Sodium) 25 mg
+sodium_0288.png,Garam (Natrium)/Salt (Sodium) 60 mg
+sodium_0289.png,Garam (Natrium) 290 mg
+sodium_0290.png,Salt (Sodium) 30 mg
+sodium_0291.png,Garam (Natrium) / Salt (Sodium) 130 mg
+sodium_0292.png,Garam (Natrium) 190 mg
+sodium_0293.png,Garam (Natrium)/Salt (Sodium) 75 mg
+sodium_0294.png,Garam (Natrium)/ 60 mg
+sodium_0295.png,Garam (Natrium)/ 70 mg
+sodium_0296.png,Garam (Natrium) / Salt (Sodium) 5 mg
+sodium_0297.png,Garam (Natrium) / Salt (Sodium) 15 mg
+sodium_0298.png,Garam (Natrium) / Salt (Sodium) 15 mg
+sodium_0299.png,Garam (Natrium)/ 45 mg
+sodium_0300.png,Garam (Natrium) 370 mg
+sodium_0302.png,Garam (Natrium) / Salt (Sodium) 25 mg
+sodium_0303.png,Garam (Natrium) 120 mg
+sodium_0304.png,Garam (Natrium) / Salt (Sodium) 65 mg
+sodium_0305.png,Garam (Natrium) / Sodium 60 mg
+sodium_0306.png,Garam (natrium)/Salt (Sodium) 35 mg
+sodium_0307.png,Garam (natrium) / Salt (sodium) 550 mg
+sodium_0308.png,Garam (Natrium) / Salt (Sodium) 15 mg
+sodium_0309.png,Garam/Natrium (Salt/Sodium) 75 mg
+sodium_0310.png,Garam (Natrium) / Sodium 55 mg
+sodium_0311.png,Salt (Sodium) 75 mg
+sodium_0312.png,Salt (Sodium) 60 mg
+sodium_0313.png,Garam (natrium) 45 mg
+sodium_0314.png,Garam (Natrium) 45 mg
+sodium_0315.png,Garam (Natrium) 90 mg
+sodium_0316.png,Garam (Natrium) / Salt (Sodium) 120 mg
+sodium_0317.png,Garam (Natrium) / Salt (Sodium) 115 mg
+sodium_0318.png,Garam (Natrium) 75 mg
+sodium_0319.png,Garam (Natrium) / Salt (Sodium) 20 mg
+sodium_0320.png,Garam (Natrium) 60 mg
+sodium_0321.png,Garam (Natrium) / Salt (Sodium) 120 mg
+sodium_0322.png,Garam (Natrium) / Salt (Sodium) 75 mg
+sodium_0323.png,Garam (Natrium) / Salt (Sodium) 90 mg
+sodium_0324.png,Garam (Natrium) / Salt (Sodium) 55 mg
+sodium_0325.png,Garam (Natrium) / Salt (Sodium) 55 mg
+sodium_0326.png,Garam (Natrium) / Salt (Sodium) 100 mg
+sodium_0327.png,Garam (Natrium) 0 mg
+sodium_0328.png,Garam (Natrium)/ Salt (Sodium) 65 mg
+sodium_0329.png,Garam (Natrium) / Salt (Sodium) 105 mg
+sodium_0330.png,Sodium / Natrium 110 mg
+sodium_0331.png,Garam (Natrium) 110 mg
+sodium_0332.png,Garam (Natrium) / Sodium 75 mg
+sodium_0333.png,Garam (Natrium) 120 mg
+sodium_0334.png,Garam (natrium) 270 mg
+sodium_0335.png,Garam (Natrium) / Salt (Sodium) 150 mg
+sodium_0336.png,Garam (natrium) 120 mg
+sodium_0337.png,Garam (natrium) 0 mg
+sodium_0338.png,Garam (natrium) 35 mg
+sodium_0339.png,Garam (natrium) 270 mg
+sodium_0340.png,Garam (natrium) 300 mg
+sodium_0341.png,Garam (Natrium) 80 mg
+sodium_0342.png,Garam (Natrium)/Salt (Sodium) 45 mg
+sodium_0343.png,Garam (Natrium)/Salt (Sodium) 45 mg
+sodium_0344.png,Garam (Natrium) 60 mg
+sodium_0345.png,Garam (Natrium) 250 mg
+sodium_0346.png,Garam (Natrium) / Salt (Sodium) 35 mg
+sodium_0347.png,Natrium 25 mg
+sodium_0348.png,Natrium 25 mg
+sodium_0349.png,Garam (Natrium) 20 mg
+sodium_0350.png,Garam (Natrium) / Sodium 100 mg
+sodium_0351.png,Garam (Natrium) / Sodium 20 mg
+sodium_0352.png,Garam (Natrium) / Sodium 360 mg
+sodium_0353.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0354.png,Garam (Natrium) / Salt (Sodium) 210 mg
+sodium_0355.png,Garam (natrium) 20 mg
+sodium_0356.png,Garam (Natrium) 105 mg
+sodium_0357.png,Garam (natrium) 90 mg
+sodium_0358.png,Garam (natrium) / Sodium 50 mg
+sodium_0359.png,Garam (Natrium) 760 mg
+sodium_0360.png,Garam (Natrium) 30 mg
+sodium_0361.png,Garam (Natrium) / 25 mg
+sodium_0362.png,Garam (Natrium) / 60 mg
+sodium_0363.png,Salt (Sodium) 0 mg
+sodium_0364.png,Natrium 40 mg
+sodium_0365.png,Garam (Natrium) 75 mg
+sodium_0366.png,Garam (Natrium) 0 mg
+sodium_0367.png,Garam (Natrium) 10 mg
+sodium_0368.png,Garam (Natrium) 430 mg
+sodium_0369.png,Garam (natrium) 35 mg
+sodium_0370.png,Garam (natrium)/Salt (sodium) 0 mg
+sodium_0371.png,Garam (natrium)/Salt (sodium) 10 mg
+sodium_0372.png,Garam (natrium)/Salt (sodium) 15 mg
+sodium_0373.png,Garam (natrium) / Salt (sodium) 35 mg
+sodium_0374.png,Garam (natrium)/Salt (sodium) 25 mg
+sodium_0375.png,Garam (natrium)/Salt (sodium) 20 mg
+sodium_0376.png,Garam (natrium)/Salt (sodium) 30 mg
+sodium_0377.png,Garam (natrium)/Salt (sodium) 25 mg
+sodium_0378.png,Garam (Natrium) / Salt (Sodium) 280 mg
+sodium_0379.png,Garam (Natrium) 160 mg
+sodium_0380.png,Garam (Natrium) 75 mg
+sodium_0381.png,Garam (Natrium) 150 mg
+sodium_0382.png,GARAM (NATRIUM)/SALT (SODIUM) 65 MG
+sodium_0383.png,Garam (Natrium) / Salt (Sodium) 130 mg
+sodium_0384.png,Garam (Natrium) 240 mg
+sodium_0385.png,Garam (Natrium) 35 mg
+sodium_0386.png,Garam (natrium) / Sodium 30 mg
+sodium_0387.png,Garam (natrium) 90 mg
+sodium_0388.png,Garam (Natrium) 70 mg
+sodium_0389.png,Garam (Natrium) / Salt (Sodium) 15mg
+sodium_0390.png,Garam (Natrium) 135 mg
+sodium_0391.png,Garam (natrium)/ Salt (sodium) 90 mg
+sodium_0392.png,Garam(natrium)/Salt(sodium) 25 mg
+sodium_0393.png,Garam (natrium) / Salt (sodium) 115 mg
+sodium_0394.png,Garam (natrium)/Salt (sodium) 50 mg
+sodium_0395.png,Garam (natrium)/Salt (sodium) 55 mg
+sodium_0396.png,Garam(natrium)/Salt(sodium) 60mg
+sodium_0397.png,Garam (natrium)/Salt (sodium) 65mg
+sodium_0398.png,Garam (Natrium) 75 mg
+sodium_0399.png,Garam (natrium)/Salt (sodium) 85 mg
+sodium_0400.png,Garam (Natrium) 115 mg
+sodium_0401.png,Garam (Natrium) 80 mg
+sodium_0402.png,Natrium 200 mg
+sodium_0403.png,Garam (Natrium) 220 mg
+sodium_0404.png,Garam (Sodium) 170 mg
+sodium_0405.png,Garam (Natrium) 830mg
+sodium_0406.png,Garam (natrium) / Sodium 760 mg
+sodium_0407.png,Salt (Sodium) 25 mg
+sodium_0408.png,Salt (Sodium) 65 mg
+sodium_0409.png,Garam (Natrium) 75 mg
+sodium_0410.png,Garam (natrium) 90 mg
+sodium_0411.png,Garam (Natrium) / Salt (Sodium) 40 mg
+sodium_0412.png,Garam (Natrium) / Salt (Sodium) 200 mg
+sodium_0413.png,Garam (natrium) 950 mg
+sodium_0414.png,Natrium 1030 mg
+sodium_0415.png,Garam (Natrium) 100 mg
+sodium_0416.png,Garam (Natrium) 30 mg
+sodium_0417.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0418.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0419.png,Natrium 1150 mg
+sodium_0420.png,Garam (Natrium) 5 mg
+sodium_0421.png,Garam (Natrium) / Salt (Sodium) 105 mg
+sodium_0422.png,Natrium 950 mg
+sodium_0423.png,Garam (natrium) 270 mg
+sodium_0424.png,Natrium 1370 mg
+sodium_0425.png,Garam (Natrium) / Salt (Sodium) 40 mg
+sodium_0426.png,Garam (Natrium) 120 mg
+sodium_0427.png,Garam (natrium) 260 mg
+sodium_0428.png,Garam (natrium) 260 mg
+sodium_0429.png,Garam (natrium) 260 mg
+sodium_0430.png,Natrium /Sodium 65 mg
+sodium_0431.png,Garam (natrium) 80 mg
+sodium_0432.png,Garam (Natrium) 115 mg
+sodium_0433.png,Garam (Natrium) 75 mg
+sodium_0434.png,Garam(natrium)/Salt(sodium) 25 mg
+sodium_0435.png,Garam (Natrium) 10 mg
+sodium_0436.png,Garam (natrium)/Salt (sodium) 30mg
+sodium_0437.png,Garam (natrium)/Salt (sodium) 190 mg
+sodium_0438.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0439.png,Garam (Natrium)/ Salt (Sodium) 25 mg
+sodium_0440.png,Garam(Natrium) / Salt(Sodium) 40 mg
+sodium_0441.png,Garam(Natrium) / Salt(Sodium) 35 mg
+sodium_0442.png,Garam (Natrium) / Salt (Sodium) 75 mg
+sodium_0443.png,Garam (Natrium) 25 mg
+sodium_0444.png,Garam (Natrium) 25 mg
+sodium_0445.png,Garam (Natrium) 25 mg
+sodium_0446.png,Garam (Natrium) 15 mg
+sodium_0447.png,Garam (Natrium) 15 mg
+sodium_0448.png,Garam (Natrium) 25 mg
+sodium_0449.png,Garam (Natrium) 25 mg
+sodium_0450.png,Garam (Natrium) 10 mg
+sodium_0451.png,Garam (Natrium) 20 mg
+sodium_0452.png,Garam (Natrium) 20 mg
+sodium_0453.png,Garam (Natrium) 5 mg
+sodium_0454.png,Garam (Natrium) 120 mg
+sodium_0455.png,Garam (Natrium) 20 mg
+sodium_0456.png,Garam (Natrium) 5 mg
+sodium_0457.png,Garam (Natrium) 60 mg
+sodium_0458.png,Garam (Natrium) 10 mg
+sodium_0459.png,Garam (Natrium) 15 mg
+sodium_0460.png,Garam (Natrium) 50 mg
+sodium_0461.png,Garam (Natrium) 60 mg
+sodium_0462.png,Garam (Natrium) 20 mg
+sodium_0463.png,Garam (Natrium) 30 mg
+sodium_0464.png,Garam (Natrium) 20 mg
+sodium_0465.png,Garam (Natrium) 55 mg
+sodium_0466.png,Garam (Natrium) 30 mg
+sodium_0467.png,Garam (Natrium) 35 mg
+sodium_0468.png,Garam (Natrium) 60 mg
+sodium_0469.png,Garam (Natrium) 40 mg
+sodium_0470.png,Garam (Natrium) 20 mg
+sodium_0471.png,Garam (Natrium) 35 mg
+sodium_0472.png,Garam (Natrium) 60 mg
+sodium_0473.png,Garam (Natrium) 40 mg
+sodium_0474.png,Garam (Natrium)/Salt (Sodium) 35 mg
+sodium_0475.png,Garam (Natrium) 20 mg
+sodium_0476.png,Salt (Sodium)/Garam (Natrium) 110 mg
+sodium_0477.png,Garam (natrium)/ 25 mg
+sodium_0478.png,Garam (natrium)/ 25 mg
+sodium_0479.png,Garam (Natrium) 15 mg
+sodium_0480.png,Garam (natrium)/ 70 mg
+sodium_0481.png,Garam (Natrium)/ Salt (Sodium) 5mg
+sodium_0482.png,Garam (Natrium)/ Salt (Sodium) 25mg
+sodium_0483.png,Garam (Natrium)/ Salt (Sodium) 10mg
+sodium_0484.png,Salt (Sodium) 20 mg
+sodium_0485.png,Garam (Natrium) 40 mg
+sodium_0486.png,Garam (Natrium) 10 mg
+sodium_0487.png,Garam (Natrium) / Salt (Sodium) 30 mg
+sodium_0488.png,Garam (Natrium)/Salt (Sodium) 25 mg
+sodium_0489.png,Salt (Sodium) 65 mg
+sodium_0490.png,Garam (Natrium)/Salt (Sodium) 90 mg
+sodium_0491.png,Garam (Natrium) / Salt (Sodium) 200 mg
+sodium_0492.png,Garam (Natrium) 80 mg
+sodium_0493.png,Garam (Natrium) 95 mg
+sodium_0494.png,Natrium/ Sodium 50 mg
+sodium_0495.png,Garam (Natrium) / Salt (Sodium) 280 mg
+sodium_0496.png,Garam (Natrium) / Salt (Sodium) 280 mg
+sodium_0497.png,Natrium / Sodium 135 mg
+sodium_0498.png,Natrium 115 mg
+sodium_0499.png,Natrium) / Sodium 65 mg
+sodium_0500.png,Garam (natrium) 270 mg
+sodium_0501.png,Garam (Natrium) / Salt (Sodium) 50 mg
+sodium_0502.png,Salt (Sodium) 25 mg
+sodium_0503.png,Salt (Sodium) 20 mg
+sodium_0504.png,Garam (Natrium) 120 mg
+sodium_0505.png,Garam (Natrium)/Salt (Sodium) 85 mg
+sodium_0506.png,Garam (Natrium) / Salt (Sodium) 105 mg
+sodium_0508.png,Garam (natrium) 800 mg
+sodium_0509.png,Garam (Natrium) 10 mg
+sodium_0510.png,Garam (Natrium)/Salt (Sodium) 20 mg
+sodium_0511.png,Garam (natrium) / Salt (sodium) 5 mg
+sodium_0512.png,Garam (Natrium) / Salt (Sodium) 135 mg
+sodium_0513.png,Garam (Natrium) / Sodium 45 mg
+sodium_0514.png,Garam (natrium) 310 mg
+sodium_0515.png,Garam (Natrium) / Salt (Sodium) 85 mg
+sodium_0516.png,Garam (natrium) 115 mg
+sodium_0517.png,Garam (Natrium) 10 mg
+sodium_0518.png,Natrium 40 mg
+sodium_0519.png,Garam (Natrium) 55 mg
+sodium_0520.png,Garam (Natrium) 25 mg
+sodium_0521.png,Natrium 60 mg
+sodium_0522.png,Salt (Sodium) 10 mg
+sodium_0523.png,Salt (Sodium) 25 mg
+sodium_0524.png,Garam (Natrium) 45 mg
+sodium_0525.png,Garam (Natrium) 25 mg
+sodium_0526.png,Garam (Natrium) 0 mg
+sodium_0527.png,Garam (natrium)/Salt (sodium) 25 mg
+sodium_0528.png,Garam(Natrium)/Salt(Sodium) 20 mg
+sodium_0529.png,Garam (natrium)/Salt (sodium) 150 mg
+sodium_0530.png,Garam (Natrium) 125 mg
+sodium_0531.png,Garam (Natrium) / Sodium 210 mg
+sodium_0532.png,Garam (Natrium) 125 mg
+sodium_0533.png,Garam / Natrium 130 mg
+sodium_0534.png,Garam / Natrium 140 mg
+sodium_0535.png,Garam / Natrium 140 mg
+sodium_0536.png,Natrium (Sodium) 160 mg
+sodium_0537.png,Garam (Natrium) / Sodium 150 mg
+sodium_0538.png,Garam (Natrium) 55 mg
+sodium_0539.png,Garam (natrium) 85 mg
+sodium_0540.png,Garam (Natrium) / Sodium 0 mg
+sodium_0541.png,Garam (Natrium) 0 mg
+sodium_0542.png,Garam (natrium) 10 mg
+sodium_0543.png,Garam (Natrium) 0mg
+sodium_0544.png,Garam (Natrium) 0mg
+sodium_0545.png,Natrium / Sodium 0 mg
+sodium_0546.png,Natrium / Sodium 0 mg
+sodium_0547.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0548.png,Natrium 5 mg
+sodium_0549.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0550.png,Garam (Natrium) 0 mg
+sodium_0551.png,Garam (Natrium) 70 mg
+sodium_0552.png,Garam (Natrium) 15 mg
+sodium_0553.png,Garam (natrium) / Salt (sodium) 35 mg
+sodium_0554.png,Garam (natrium) / Salt (sodium) 20 mg
+sodium_0555.png,Garam (Natrium) 15 mg
+sodium_0556.png,Garam (Natrium) 35 mg
+sodium_0557.png,Garam (Natrium) 35 mg
+sodium_0558.png,Garam (Natrium) 55 mg
+sodium_0559.png,Garam (Natrium) 85 mg
+sodium_0560.png,Garam (Natrium) 35 mg
+sodium_0561.png,Garam (Natrium) 35 mg
+sodium_0562.png,Garam (Natrium) 120 mg
+sodium_0563.png,Garam (Natrium) / Salt (Sodium) 0 mg
+sodium_0564.png,Garam  / Natrium 120 mg
+sodium_0565.png,Garam (Natrium) 15 mg
+sodium_0566.png,Salt (Sodium)/Garam (Natrium) 120 mg
+sodium_0567.png,Garam (Natrium) 20 mg
+sodium_0568.png,Garam (Natrium) 70 mg
+sodium_0569.png,Garam (Natrium) 25 mg
+sodium_0570.png,Garam (natrium)/Salt (sodium) 10 mg
+sodium_0571.png,Garam (Natrium) 20 mg
+sodium_0572.png,Garam (Natrium) 15 mg
+sodium_0573.png,Garam (Natrium) 25 mg
+sodium_0574.png,Garam (Natrium) 150 mg
+sodium_0575.png,Garam (Natrium) 20 mg
+sodium_0576.png,Garam (Natrium) 25 mg
+sodium_0577.png,Garam (Natrium) 30 mg
+sodium_0578.png,Garam (natrium) / Salt (sodium) 20 mg
+sodium_0579.png,Garam (natrium) / Salt (sodium) 25 mg
+sodium_0580.png,Garam (Natrium) / Sodium 135mg
+sodium_0581.png,Garam (natrium)/ Salt (sodium) 10 mg
+sodium_0582.png,Garam (natrium)/ Salt (sodium) 35 mg
+sodium_0583.png,Garam (Natrium) 65 mg
+sodium_0584.png,Garam (Natrium) / Salt (Sodium) 75 mg
+sodium_0585.png,Garam (Natrium) / Salt (Sodium) 85 mg
+sodium_0586.png,Garam (Natrium) / Salt (Sodium) 85 mg
+sodium_0587.png,Garam (natrium) / Salt (sodium) 25 mg
+sodium_0588.png,Garam (natrium) / Salt (sodium) 25 mg
+sodium_0589.png,Natrium / Sodium 85 mg
+sugar_0003.png,Total Sugar 21.1 g
+sugar_0040.png,Gula 14 g
+sugar_0042.png,Gula 6 g
+sugar_0043.png,Gula 6 g
+sugar_0052.png,Gula / Sugars 8 g
+sugar_0055.png,Guta Total / Total Sugar 10 g
+sugar_0058.png,Gula Total / Total Sugar 12 g
+sugar_0076.png,Total Gula / Total Sugar 25 g
+sugar_0078.png,Gula 14 g
+sugar_0079.png,Gula 6 g
+sugar_0080.png,Gula 26 g
+sugar_0081.png,Gula / Sugar 5 g
+sugar_0082.png,Gula 0 g
+sugar_0083.png,Gula / Sugar 15 g
+sugar_0084.png,Gula 4 g
+sugar_0085.png,Gula 10 g
+sugar_0086.png,Gula 5 g
+sugar_0087.png,Gula / Sugar 1 g
+sugar_0088.png,Gula 6 g
+sugar_0089.png,Gula / Sugar 6 g
+sugar_0090.png,Gula 0 g
+sugar_0091.png,Gula 10 g
+sugar_0092.png,Gula 5 g
+sugar_0093.png,Gula/Sugar 4 g
+sugar_0094.png,Gula 6 g
+sugar_0095.png,Gula / Sugar 1g
+sugar_0096.png,Gula 0 g
+sugar_0098.png,Gula 0 g
+sugar_0099.png,Gula / Sugar 6 g
+sugar_0100.png,Gula / Sugars 10 g
+sugar_0101.png,Gula / Sugar 6 g
+sugar_0102.png,Gula 1 g
+sugar_0103.png,Total Gula/Total Sugar 0 g
+sugar_0104.png,Gula 1 g
+sugar_0105.png,Gula 0 g
+sugar_0106.png,Gula 1 g
+sugar_0107.png,Gula/Sugar 1 g
+sugar_0108.png,Gula 5 g
+sugar_0109.png,Gula / Sugars 3 g
+sugar_0110.png,Gula / Sugar 16 g
+sugar_0111.png,Gula / Sugar 4 g
+sugar_0112.png,Gula / Sugar 4 g
+sugar_0113.png,Gula 5 g
+sugar_0114.png,Gula / Sugar 7 g
+sugar_0115.png,Gula / Sugars 1 g
+sugar_0116.png,Gula / Sugar 4 g
+sugar_0117.png,Gula / Sugars 9 g
+sugar_0118.png,Gula 4 g
+sugar_0119.png,Gula 4 g
+sugar_0121.png,Gula 9 g
+sugar_0122.png,Gula/Sugar 3 g
+sugar_0123.png,Gula 6 g
+sugar_0127.png,Gula / Sugar 6 g
+sugar_0128.png,Gula/Sugar 7 g
+sugar_0129.png,Sugars 12 g
+sugar_0130.png,Gula/Sugar 2g
+sugar_0131.png,Gula / Sugar 10 g
+sugar_0132.png,Gula / Sugar 11 g
+sugar_0133.png,Gula / Sugar 9 g
+sugar_0134.png,Gula / Sugar 11 g
+sugar_0135.png,Gula / Sugar 8 g
+sugar_0136.png,Total Sugars 11g
+sugar_0137.png,Total Sugars 7g
+sugar_0138.png,Gula/Sugars 8 g
+sugar_0139.png,Gula/Sugars 8 g
+sugar_0140.png,Gula/Sugar 2g
+sugar_0142.png,Gula/Sugar 1g
+sugar_0143.png,Gula/Sugars 6g
+sugar_0144.png,Gula/Sugar 9g
+sugar_0145.png,Gula / Sugar 12 g
+sugar_0146.png,Gula/Sugar 7 g
+sugar_0147.png,Gula 9 g
+sugar_0148.png,Gula 2 g
+sugar_0149.png,Gula (Sugar) 6g
+sugar_0150.png,Gula / Sugar 9 g
+sugar_0151.png,Gula / Sugar 12 g
+sugar_0152.png,Gula / Sugar 12 g
+sugar_0153.png,Gula / Sugars 0 g
+sugar_0154.png,Gula / Sugars 0 g
+sugar_0156.png,Gula/Sugar 1 g
+sugar_0159.png,Gula 1 g
+sugar_0160.png,Gula 1 g
+sugar_0161.png,Gula 1 g
+sugar_0162.png,Gula / Sugars 11 g
+sugar_0163.png,Gula / Sugars 6 g
+sugar_0164.png,Gula / Sugars 5 g
+sugar_0165.png,Gula 10 g
+sugar_0166.png,Gula 4 g
+sugar_0167.png,Gula 55 g
+sugar_0168.png,Gula / Sugar 3 g
+sugar_0169.png,Gula / Sugar 4 g
+sugar_0170.png,Gula / Sugar 4 g
+sugar_0171.png,Gula/Sugar 7 g
+sugar_0172.png,Gula 0 g
+sugar_0173.png,Gula 13 g
+sugar_0174.png,Gula / Sugars 100 mg
+sugar_0175.png,Gula / Sugars 10 g
+sugar_0176.png,Gula / Sugars 4 g
+sugar_0177.png,Gula Total / Total Sugar 3 g
+sugar_0178.png,Gula 7 g
+sugar_0179.png,Gula 2 g
+sugar_0180.png,Gula/Sugar 2 g
+sugar_0181.png,Gula (mono & disakarida) 5 g
+sugar_0182.png,Total Gula/Total Sugars 19 g
+sugar_0183.png,Gula Total 15 g
+sugar_0184.png,Gula total (Total Sugar) 10 g
+sugar_0185.png,Gula / Sugars 18 g
+sugar_0186.png,Sugars/Gula Total 13 g
+sugar_0187.png,Gula (Sugar) 13 g
+sugar_0188.png,Gula / Sugar 6g
+sugar_0189.png,Gula/Sugar 14 g
+sugar_0190.png,Gula / Sugars 16 g
+sugar_0191.png,Gula 22 g
+sugar_0192.png,Gula 32 g
+sugar_0193.png,Gula/ Sugar 5 g
+sugar_0194.png,Gula 7 g
+sugar_0195.png,Gula 3 g
+sugar_0196.png,Gula/ Sugar 1 g
+sugar_0197.png,Gula 11 g
+sugar_0198.png,Gula / Sugars 4 g
+sugar_0199.png,Gula/Sugar 7 g
+sugar_0200.png,Gula / Sugar 11 g
+sugar_0201.png,Gula / Sugar 12 g
+sugar_0202.png,Gula 2g
+sugar_0203.png,Gula/ Sugar 9 g
+sugar_0204.png,Gula 7 g
+sugar_0205.png,Gula 10 g
+sugar_0206.png,Gula 3 g
+sugar_0207.png,Gula 8 g
+sugar_0208.png,Gula / Sugars 0 g
+sugar_0209.png,Gula / Sugar 10 g
+sugar_0210.png,Gula / Sugars 11 g
+sugar_0211.png,Gula / Sugars 11 g
+sugar_0212.png,Gula / Sugars 10 g
+sugar_0213.png,Gula / Sugars 10 g
+sugar_0214.png,Gula 1 g
+sugar_0215.png,Gula / Sugars 9 g
+sugar_0216.png,Gula / Sugars 9 g
+sugar_0217.png,Gula 2 g
+sugar_0218.png,Gula 1 g
+sugar_0219.png,Gula 1 g
+sugar_0220.png,Gula 0 g
+sugar_0221.png,Gula 2 g
+sugar_0222.png,Sugar 1 g
+sugar_0223.png,Sugar 0 g
+sugar_0224.png,Gula 0 g
+sugar_0225.png,Gula 0 g
+sugar_0226.png,Gula 0 g
+sugar_0227.png,Gula / Sugar 0 g
+sugar_0228.png,Gula 7 g
+sugar_0229.png,Gula 10 g
+sugar_0230.png,Gula Total 3 g
+sugar_0231.png,Gula/Sugar 4 g
+sugar_0232.png,Gula / Sugar 3 g
+sugar_0233.png,Gula / Sugar 3 g
+sugar_0234.png,Gula / Sugar 0 g
+sugar_0236.png,Gula / Sugar 4 g
+sugar_0237.png,Gula 2 g
+sugar_0238.png,Gula 5 g
+sugar_0239.png,Gula/Sugars 1 g
+sugar_0240.png,Gula/Sugars 1 g
+sugar_0241.png,Gula/Sugars 1 g
+sugar_0242.png,Gula / Sugars 1 g
+sugar_0243.png,Gula / Sugar 5 g
+sugar_0244.png,Gula / Sugar 7g
+sugar_0245.png,Gula / Sugar 6 g
+sugar_0246.png,Gula / Sugar 10 g
+sugar_0247.png,Gula 12 g
+sugar_0248.png,Gula 6 g
+sugar_0249.png,Gula (Sugars) 28 g
+sugar_0250.png,Gula/Sugars 24 g
+sugar_0251.png,Gula / Sugar 18 g
+sugar_0252.png,Gula / Sugar 18g
+sugar_0253.png,Gula / Sugar 18 g
+sugar_0254.png,Gula 11 g
+sugar_0255.png,Gula 17g
+sugar_0256.png,Gula 37 g
+sugar_0258.png,Gula Total 15 g
+sugar_0259.png,Gula total 8 g
+sugar_0260.png,Gula 8 g
+sugar_0261.png,Total Gula 17.5 g
+sugar_0262.png,Gula Total 0g
+sugar_0264.png,Gula 23 g
+sugar_0265.png,Gula Total 18 g
+sugar_0272.png,Gula Total 9 g
+sugar_0273.png,Sugars / Gula 13 g
+sugar_0274.png,Gula / Sugar 13g
+sugar_0275.png,Gula / Sugar 17 g
+sugar_0276.png,Gula 5 g
+sugar_0277.png,Gula / Sugar 1 g
+sugar_0278.png,Gula 0 g
+sugar_0279.png,Gula 20g
+sugar_0280.png,Gula Total / Total Sugars 11g
+sugar_0281.png,Gula / Sugars 4 g
+sugar_0282.png,Gula / Sugars 4 g
+sugar_0283.png,Gula / Sugar 10 g
+sugar_0284.png,Gula 6 g
+sugar_0285.png,Gula 1 g
+sugar_0286.png,Gula / Sugar 5 g
+sugar_0287.png,Gula / Sugar 7 g
+sugar_0288.png,Gula 0 g
+sugar_0289.png,Gula/ Sugar 3 g
+sugar_0290.png,Gula / Sugar 2 g
+sugar_0291.png,Gula 3 g
+sugar_0292.png,Gula/Sugar 1 g
+sugar_0293.png,Gula/ Sugar 6 g
+sugar_0294.png,Gula/ Sugar 6 g
+sugar_0295.png,Gula / Sugar 3 g
+sugar_0296.png,Gula/ Sugar 1 g
+sugar_0297.png,Gula/ Sugar 1 g
+sugar_0298.png,Gula/ Sugar 4 g
+sugar_0299.png,Gula 0 g
+sugar_0301.png,Gula / Sugars 3 g
+sugar_0302.png,Gula 1 g
+sugar_0303.png,Gula / Sugar 7 g
+sugar_0304.png,Gula / Sugar 0 g
+sugar_0305.png,Gula/Sugars 8 g
+sugar_0306.png,Gula/Sugars 1 g
+sugar_0307.png,Gula Total / Total Sugar 3 g
+sugar_0308.png,Gula (Sugar) 4 g
+sugar_0309.png,Gula / Sugars 0 g
+sugar_0310.png,Gula (Sugar) 1 g
+sugar_0311.png,Gula (Sugar) 1 g
+sugar_0312.png,Gula 7 g
+sugar_0313.png,Gula 8 g
+sugar_0314.png,Gula 10 g
+sugar_0315.png,Gula / Sugar 12 g
+sugar_0315.png,Gula / Sugar 10 g
+sugar_0317.png,Gula 13 g
+sugar_0318.png,Gula / Total Sugar 5 g
+sugar_0319.png,Gula 6 g
+sugar_0320.png,Gula / Sugars 5.0g
+sugar_0321.png,Gula / Sugar 7 g
+sugar_0322.png,Gula / Sugar 6 g
+sugar_0323.png,Gula (Sugar) 11 g
+sugar_0324.png,Gula / Sugar 9 g
+sugar_0325.png,Gula / Sugar 7 g
+sugar_0326.png,Sugars 10 g
+sugar_0327.png,Gula/ Sugar 5 g
+sugar_0328.png,Gula / Sugar 9 g
+sugar_0329.png,Sugar / Gula 1 g
+sugar_0330.png,Gula 1 g
+sugar_0331.png,Gula / Sugars 1 g
+sugar_0332.png,Gula 1 g
+sugar_0333.png,Gula 1 g
+sugar_0334.png,Gula / Sugar 0 g
+sugar_0335.png,Gula 0 g
+sugar_0336.png,Gula 12 g
+sugar_0337.png,Gula 10 g
+sugar_0338.png,Gula 0 g
+sugar_0339.png,Gula 1g
+sugar_0340.png,Gula 1g
+sugar_0341.png,Gula/Sugar 1 g
+sugar_0342.png,Gula/Sugar 45 mg
+sugar_0343.png,Gula 1 g
+sugar_0344.png,Gula 16 g
+sugar_0345.png,Gula / Sugar 13 g
+sugar_0346.png,Gula 0g
+sugar_0347.png,Gula 0g
+sugar_0348.png,Gula 2 g
+sugar_0349.png,Gula / Sugars 9 g
+sugar_0350.png,Gula / Sugars 4 g
+sugar_0351.png,Gula / Sugar 0 g
+sugar_0352.png,Gula / Sugar 5 g
+sugar_0354.png,Gula 1 g
+sugar_0355.png,Gula 2 g
+sugar_0356.png,Gula 2 g
+sugar_0357.png,Gula / Sugar 0 g
+sugar_0358.png,Gula 1 g
+sugar_0359.png,Gula 0g
+sugar_0360.png,Gula / Sugar 15 g
+sugar_0361.png,Gula / Sugar 13 g
+sugar_0362.png,Gula Sugar 10 g
+sugar_0363.png,Gula Total 6 g
+sugar_0364.png,Gula 15 g
+sugar_0365.png,Gula 4 g
+sugar_0366.png,Gula 9 g
+sugar_0367.png,Gula 2 g
+sugar_0368.png,Gula 5 g
+sugar_0369.png,Gula/Sugar 10 g
+sugar_0370.png,Gula/Sugar 9 g
+sugar_0371.png,Gula/Sugar 5 g
+sugar_0372.png,Gula/Sugar 25 g
+sugar_0373.png,Gula/Sugar 5 g
+sugar_0374.png,Gula/Sugar 7 g
+sugar_0375.png,Gula/Sugar 7 g
+sugar_0376.png,Gula/Sugar 7 g
+sugar_0377.png,Gula / Sugar 2 g
+sugar_0378.png,Gula 1 g
+sugar_0379.png,Gula 0 g
+sugar_0380.png,Gula 1 g
+sugar_0381.png,GULA (SUGAR) 1 G
+sugar_0382.png,Gula / Sugar 3 g
+sugar_0383.png,Gula 2 g
+sugar_0384.png,Gula 2 g
+sugar_0385.png,Gula / Sugar 0 g
+sugar_0386.png,Gula 2 g
+sugar_0387.png,Gula 6 g
+sugar_0388.png,Gula / Sugars 2.0g
+sugar_0389.png,Gula 5 g
+sugar_0390.png,Gula/ Sugar 7 g
+sugar_0391.png,Gula / Sugar 3 g
+sugar_0392.png,Gula/Sugar 5 g
+sugar_0393.png,Gula/Sugar 1 g
+sugar_0394.png,Gula/Sugar 1 g
+sugar_0395.png,Gula/Sugar 7g
+sugar_0396.png,Gula/Sugar 8 g
+sugar_0397.png,Gula Total 7 g
+sugar_0398.png,Gula / Sugar 5 g
+sugar_0399.png,Gula 15 g
+sugar_0400.png,Gula 2 g
+sugar_0401.png,Gula 8 g
+sugar_0402.png,Gula 10 g
+sugar_0403.png,Gula 8 g
+sugar_0404.png,Gula 0 g
+sugar_0405.png,Gula / Sugar 5 g
+sugar_0406.png,Gula/ Sugar 5 g
+sugar_0407.png,Gula/ Sugar 5 g
+sugar_0408.png,Gula/Sugar 6 g
+sugar_0409.png,Gula 12 g
+sugar_0410.png,Gula / Sugar 9 g
+sugar_0411.png,Gula / Sugar 2g
+sugar_0412.png,Gula 4 g
+sugar_0412.png,Gula 2 g
+sugar_0414.png,Gula / Sugar 7 g
+sugar_0415.png,Gula 6 g
+sugar_0416.png,Gula / Sugars 18 g
+sugar_0417.png,Gula / Sugars 5 g
+sugar_0418.png,Gula 6 g
+sugar_0419.png,Gula 20 g
+sugar_0420.png,Gula / Sugar 18 g
+sugar_0421.png,Gula 7 g
+sugar_0422.png,Gula 4 g
+sugar_0423.png,Gula 2 g
+sugar_0424.png,Gula / Sugar 24 g
+sugar_0425.png,Gula 0 g
+sugar_0426.png,Gula 6 g
+sugar_0427.png,Gula 4 g
+sugar_0428.png,Gula 4 g
+sugar_0429.png,Gula / Sugars 1 g
+sugar_0430.png,Gula 0 g
+sugar_0431.png,Gula 0 g
+sugar_0432.png,Gula 1 g
+sugar_0433.png,Gula/Sugar 18 g
+sugar_0434.png,Gula Total 9 g
+sugar_0435.png,Gula / Sugars 36 g
+sugar_0436.png,Gula/Sugar 18 g
+sugar_0437.png,Gula / Sugar 8 g
+sugar_0438.png,Gula/ Sugar 7g
+sugar_0439.png,Gula/Sugars 23 g
+sugar_0440.png,Gula/Sugars 21 g
+sugar_0441.png,Gula / Sugars 24 g
+sugar_0442.png,Gula Total 9 g
+sugar_0443.png,Gula Total 9 g
+sugar_0444.png,Gula Total 9 g
+sugar_0445.png,Gula Total 10 g
+sugar_0446.png,Gula Total 10 g
+sugar_0447.png,Gula Total 9 g
+sugar_0448.png,Gula Total 4 g
+sugar_0449.png,Total Gula 12 g
+sugar_0450.png,Gula Total 9 g
+sugar_0451.png,Gula Total 10 g
+sugar_0452.png,Gula Total 10 g
+sugar_0453.png,Gula Total 9 g
+sugar_0454.png,Gula Total 9 g
+sugar_0455.png,Gula Total 9 g
+sugar_0456.png,Gula Total 8 g
+sugar_0457.png,Gula Total 9 g
+sugar_0458.png,Gula Total 9 g
+sugar_0459.png,Gula Total 9 g
+sugar_0460.png,Gula Total 10 g
+sugar_0461.png,Total Gula 8 g
+sugar_0462.png,Gula Total 9 g
+sugar_0463.png,Gula Total 9 g
+sugar_0464.png,Gula Total 9 g
+sugar_0465.png,Gula Total 9 g
+sugar_0466.png,Gula Total 11 g
+sugar_0467.png,Gula Total 20 g
+sugar_0468.png,Gula Total 8 g
+sugar_0469.png,Gula Total 9 g
+sugar_0470.png,Gula Total 10 g
+sugar_0471.png,Gula 24g
+sugar_0472.png,Gula 12 g
+sugar_0473.png,Total Sugars/Total Gula 10 g
+sugar_0474.png,Gula Total 9 g
+sugar_0475.png,Total Sugars/Gula Total 12 g
+sugar_0476.png,Gula/Sugar 5 g
+sugar_0477.png,Gula/Sugar 6 g
+sugar_0478.png,Gula Total 10 g
+sugar_0479.png,Gula/Sugar 5 g
+sugar_0480.png,Gula/ Sugar 7 g
+sugar_0481.png,Gula/ Sugar 6g
+sugar_0482.png,Gula/ Sugar 7g
+sugar_0483.png,Gula/ Sugar 11 g
+sugar_0484.png,Gula Total 8 g
+sugar_0485.png,Gula Total 9 g
+sugar_0486.png,Gula Sugar 8 g
+sugar_0487.png,Gula/Sugar 10 g
+sugar_0488.png,Gula/ Sugar 5 g
+sugar_0489.png,Gula/Sugar 6 g
+sugar_0490.png,Gula / Sugar 1 g
+sugar_0491.png,Gula 1 g
+sugar_0492.png,Gula 1 g
+sugar_0493.png,Gula/ Sugar 4 g
+sugar_0494.png,Gula / Sugar 1 g
+sugar_0495.png,Gula / Sugar 1 g
+sugar_0496.png,Gula / Sugar 12 g
+sugar_0497.png,Gula 115 mg
+sugar_0498.png,Gula/Sugar 7 g
+sugar_0499.png,Gula 4 g
+sugar_0500.png,Gula / Sugars 5 g
+sugar_0501.png,Gula/ Sugar 3 g
+sugar_0502.png,Gula/ Sugar 3 g
+sugar_0503.png,Gula 1 g
+sugar_0504.png,Gula / Sugar 1 g
+sugar_0505.png,Gula / Sugar 10 g
+sugar_0507.png,Gula 3 g
+sugar_0508.png,Gula 4 g
+sugar_0509.png,Gula/Sugar 6 g
+sugar_0511.png,Gula / Sugar 0 g
+sugar_0512.png,Gula (Sugar) 19 g
+sugar_0513.png,Gula 6 g
+sugar_0514.png,Gula / Sugar 9 g
+sugar_0515.png,Gula total 17 g
+sugar_0516.png,Gula Total 0g
+sugar_0517.png,Gula Total 6 g
+sugar_0518.png,Gula 4 g
+sugar_0519.png,Gula 21 g
+sugar_0520.png,Gula 37 g
+sugar_0521.png,Gula/ Sugar 9 g
+sugar_0522.png,Gula/ Sugar 10 g
+sugar_0523.png,Gula 22 g
+sugar_0524.png,Gula 19 g
+sugar_0525.png,Gula 11 g
+sugar_0526.png,Gula/Sugar 15 g
+sugar_0527.png,Gula/Sugar 18 g
+sugar_0528.png,Gula/Sugar 18 g
+sugar_0529.png,Gula 22 g
+sugar_0530.png,Gula / Sugar 17 g
+sugar_0531.png,Gula 23 g
+sugar_0532.png,Gula / Sugar 17 g
+sugar_0533.png,Gula / Sugar 17 g
+sugar_0534.png,Gula / Sugar 14 g
+sugar_0535.png,Gula (Sugar) 21 g
+sugar_0536.png,Gula / Sugar 21 g
+sugar_0537.png,Gula 4 g
+sugar_0538.png,Gula 12 g
+sugar_0539.png,Gula / Sugar 25 g
+sugar_0540.png,Gula 11 g
+sugar_0541.png,Gula Total 13 g
+sugar_0542.png,Gula 13g
+sugar_0543.png,Gula 11g
+sugar_0544.png,Gula / Sugar 16 g
+sugar_0545.png,Gula / Sugar 16 g
+sugar_0546.png,Gula / Sugar 12 g
+sugar_0547.png,Gula 24 g
+sugar_0548.png,Gula / Sugar 12 g
+sugar_0549.png,Gula Total 0 g
+sugar_0550.png,Gula Total 0 g
+sugar_0551.png,Gula 27 g
+sugar_0552.png,Gula / Sugars 21 g
+sugar_0553.png,Gula / Sugars 25 g
+sugar_0554.png,Gula Total 12 g
+sugar_0555.png,Gula 1 g
+sugar_0556.png,Gula 1 g
+sugar_0557.png,Gula Total 10 g
+sugar_0558.png,Gula Total 8 g
+sugar_0559.png,Gula Total 8 g
+sugar_0560.png,Gula 1 g
+sugar_0561.png,Gula Total 20 g
+sugar_0562.png,Gula / Sugar 12 g
+sugar_0563.png,Gula / Sugar 18 g
+sugar_0564.png,Gula Total 9 g
+sugar_0565.png,Total Sugars/Gula Total 7 g
+sugar_0566.png,Gula Total 8 g
+sugar_0567.png,Gula Total 21 g
+sugar_0568.png,Gula 11 g
+sugar_0569.png,Gula/Sugar 12 g
+sugar_0570.png,Gula 19 g
+sugar_0571.png,Gula 18 g
+sugar_0572.png,Gula 18 g
+sugar_0573.png,Gula Total 8 g
+sugar_0574.png,Gula Total 8 g
+sugar_0575.png,Gula 18 g
+sugar_0576.png,Gula 18 g
+sugar_0577.png,Gula / Sugars 25 g
+sugar_0578.png,Gula / Sugars 20 g
+sugar_0579.png,Gula / Sugars 30g
+sugar_0580.png,Gula/ Sugars 40 g
+sugar_0581.png,Gula / Sugars 21 g
+sugar_0582.png,Gula 2 g
+sugar_0583.png,Gula / Sugars 23 g
+sugar_0584.png,Gula / Sugars 23 g
+sugar_0585.png,Gula / Sugar 23 g
+sugar_0586.png,Gula / Sugar 40 g
+sugar_0587.png,Gula / Sugar 40 g
+sugar_0588.png,Gula / Sugar 10 g

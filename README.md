@@ -42,13 +42,13 @@ Dataset terdiri dari **420 citra label** yang dikategorikan ke dalam 5 grup nutr
 
 | Kategori         | Jumlah | Deskripsi                    |
 | :--------------- | :----- | :--------------------------- |
-| **Calories**     | 84     | Label energi total (Kkal/Kj) |
-| **Carbohydrate** | 84     | Informasi serat dan gula     |
-| **Fat**          | 84     | Lemak total dan lemak jenuh  |
-| **Sodium**       | 84     | Kandungan garam (mg)         |
-| **Sugar**        | 84     | Kandungan gula (g)           |
+| **Calories**     | 490    | Label energi total (Kkal/Kj) |
+| **Carbohydrate** | 490    | Informasi serat dan gula     |
+| **Fat**          | 504    | Lemak total dan lemak jenuh  |
+| **Sodium**       | 497    | Kandungan garam (mg)         |
+| **Sugar**        | 497    | Kandungan gula (g)           |
 
-![Distribusi Data](foto/distribusi&kualitas-data.png)
+![Distribusi Data](foto/distribusi-data.png)
 
 ### Data Augmentation Strategy
 
@@ -91,8 +91,8 @@ Pengujian model menggunakan dataset pada folder `test`:
 
 Pengujian data baru menggunakan script `inference.py` pada folder `test-data-baru`. Hasil prediksi visual disimpan secara otomatis di folder `hasil_data_baru`.
 
-![Hasil Data Baru](hasil_data_baru/hasil-data-baru.png)
-![Hasil Data Baru](hasil_data_baru/hasil-data-baru2.png)
+![Hasil Data Baru](hasil_data_baru/res_testing5.png)
+![Hasil Data Baru](hasil_data_baru/res_testing8.png)
 
 ---
 
