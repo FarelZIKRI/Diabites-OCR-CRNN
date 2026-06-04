@@ -107,7 +107,7 @@ Pengujian data baru menggunakan script `inference.py` pada folder `test-data-bar
 ├── hasil_data_baru/        # Output visual hasil prediksi
 ├── valid/                  # Dataset validasi
 ├── CRNN_OCR_Final.ipynb    # Pipeline pelatihan lengkap
-├── inference.py            # Script prediksi (Run this!)
+├── inference.py            # Script inference prediksi
 └── README.md               # Dokumentasi utama
 ```
 
@@ -158,7 +158,7 @@ Ikuti langkah-langkah di bawah ini untuk menyiapkan lingkungan kerja Anda:
   # Path lokasi model disimpan
   MODEL_PATH = "saved_model/crnn_model.keras"
 
-  # Memuat model tanpa mengompilasi ulang (karena hanya digunakan untuk prediksi/inference)
+  # Memuat model tanpa mengompilasi ulang (digunakan untuk inference)
   model = tf.keras.models.load_model(MODEL_PATH, compile=False)
   print("Model berhasil dimuat!")
   ```
