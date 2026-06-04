@@ -108,14 +108,73 @@ Pengujian data baru menggunakan script `inference.py` pada folder `test-data-bar
 ├── valid/                  # Dataset validasi
 ├── CRNN_OCR_Final.ipynb    # Pipeline pelatihan lengkap
 ├── inference.py            # Script prediksi (Run this!)
-└── readme.md               # Dokumentasi utama
+└── README.md               # Dokumentasi utama
 ```
 
-### Quick Setup
+### 1. Petunjuk Setup Environment
 
-1.  Pastikan Python 3.9+ terinstal.
-2.  Install library: `pip install tensorflow opencv-python pandas numpy albumentations`
-3.  Jalankan prediksi: `python inference.py`
+Ikuti langkah-langkah di bawah ini untuk menyiapkan lingkungan kerja Anda:
+
+1. **Clone Repository**:
+
+   ```bash
+   git clone https://github.com/FarelZIKRI/Diabites-OCR-CRNN.git
+   cd Diabites-OCR-CRNN
+   ```
+
+2. **Buat Virtual Environment** (Opsional tetapi sangat disarankan):
+   - Pada Windows:
+     ```powershell
+     python -m venv venv
+     .\venv\Scripts\activate
+     ```
+   - Pada macOS/Linux:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+
+3. **Install Dependensi**:
+   Instal semua library yang dibutuhkan dari file `requirements.txt`:
+   ```bash
+   pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
+
+---
+
+### 2. Tautan & Cara Memuat Model Machine Learning
+
+- **Tautan Unduhan Model**:
+  Model pre-trained sudah disertakan langsung di dalam repository ini pada folder `saved_model/crnn_model.keras`. Anda juga dapat mengunduhnya secara manual melalui tautan berikut:
+  **[Download Model crnn_model.keras](https://github.com/FarelZIKRI/Diabites-OCR-CRNN/raw/main/saved_model/crnn_model.keras)**
+
+- **Cara Memuat (Load) Model di Kode**:
+  Untuk memuat model dalam Python menggunakan TensorFlow Keras, gunakan cuplikan kode berikut:
+
+  ```python
+  import tensorflow as tf
+
+  # Path lokasi model disimpan
+  MODEL_PATH = "saved_model/crnn_model.keras"
+
+  # Memuat model tanpa mengompilasi ulang (karena hanya digunakan untuk prediksi/inference)
+  model = tf.keras.models.load_model(MODEL_PATH, compile=False)
+  print("Model berhasil dimuat!")
+  ```
+
+---
+
+### 3. Cara Menjalankan Aplikasi
+
+Untuk melakukan pengujian atau inferensi data baru menggunakan model OCR CRNN:
+
+1. Letakkan gambar kemasan nilai gizi baru yang ingin diprediksi (berformat `.png`, `.jpg`, atau `.jpeg`) ke dalam folder `test-data-baru/`.
+2. Jalankan skrip inferensi `inference.py`:
+   ```bash
+   python inference.py
+   ```
+3. Hasil prediksi berupa gambar visualisasi teks yang terdeteksi akan otomatis disimpan di dalam folder `hasil_data_baru/` dengan awalan nama `res_*.png`.
 
 ---
 
